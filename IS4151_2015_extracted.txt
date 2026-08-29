@@ -1,0 +1,7733 @@
+Hkkjrh; ekud
+
+IS 4151 : 2015
+(Reaffirmed 2020)
+
+Indian Standard
+
+nqifg;k okgu pkydksa osQ fy,
+laj{kh gsYesV Â— fof'kf"V
+( pkSFkk iqujh{k.k )
+Protective Helmet for Two Wheeler
+Riders Â— Specification
+( Fourth Revision )
+
+ICS 13.340.20
+
+Â© BIS 2015
+
+Hkkjrh; ekud C;wjks
+BUREAU OF INDIAN STANDARDS
+
+ekud Hkou] 9 cgknqj'kkg T+kiQj ekxZ] ubZ fnYyh&110002
+
+MANAK BHAVAN, 9 BAHADUR SHAH ZAFAR MARG
+NEW DELHI-110002
+www.bis.org.in www.standardsbis.in
+
+December 2015
+
+Price Group 12
+
+Fire Fighting Sectional Committee, CED 22
+
+FOREWORD
+This Indian Standard (Fourth Revision) was adopted by the Bureau of Indian Standards, after the draft finalized
+by the Fire Fighting Sectional Committee had been approved by the Civil Engineering Division Council.
+Helmet is one of the most important items of personal protective equipment used by two wheeler riders for
+protection against the hazards connected with driving on roads. This standard has been framed to cover provisions
+of protective helmets for everyday use by the two wheeler riders.
+The protection given by wearing of the helmet for which requirements have been laid in this standard is not
+complete and wearing of the helmet may not prevent injury and/or death in severe accidents.
+This standard was first issued as an emergency Indian Standard in 1967 (made as firm in 1968) and subsequently
+revised in 1976, 1982 and 1993. This revision has been taken up on the basis of experience gained during these
+years and to bring in line with latest developments at international level. The standard has been aligned with ECE
+Regulation No. 22, Revision 4 incorporating 05 series of amendments to the maximum extent possible, keeping
+in view the Indian climatic and road conditions.
+The major changes incorporated in this revision are given below:
+a)
+
+The title of the standard has been modified from Â‘Protective Helmets for Motorcycle Riders Â—
+SpecificationÂ’ to Â‘Protective Helmets for Two Wheeler Riders Â— SpecificationÂ’;
+b) Impact absorption test has been modified with number of additional impact points, use of kerb stone
+anvil, increased impact velocity and head injury criteria etc;
+c) New tests to simulate the abrasion of helmet during the accident, chin guard and for effectiveness of the
+retention system;
+d) Inclusion of side impact tests under various conditions of temperature and humidity.; and
+e) Allowance for ventilation for the head, while wearing the helmet.
+The composition of the Committee responsible for the formulation of this standard is given in Annex P.
+For the purpose of deciding whether a particular requirement of this standard is complied with, the final value,
+observed or calculated, expressing the result of a test or analysis, shall be rounded off in accordance with IS 2 : 1960
+Â‘Rules for rounding off numerical values (revised)Â’. The number of significant places retained in the rounded off
+value should be the same as that of the specified value in this standard.
+
+IS 4151 : 2015
+
+Indian Standard
+PROTECTIVE HELMETS FOR TWO WHEELER
+RIDERS Â— SPECIFICATION
+( Fourth Revision )
+1 SCOPE
+
+3.5 Comfort Padding Â— A material provided for the
+wearerÂ’s comfort.
+
+1.1 This standard covers the requirements regarding the
+material, construction, workmanship, finish, mass and
+performance for protective helmet (with or without lower
+face cover) for everyday use by two wheeler riders.
+
+3.6 Retention System Â— The complete assembly by
+means of which the helmet is maintained in position
+on the head, including any devices for adjustments of
+the system or to enhance the wearerÂ’s comfort.
+
+1.2 The helmets covered by this standard are not
+intended for high-speed competitive events.
+
+3.6.1 Chin Strap Â— A part of the retention system
+consisting of a strap that passes under the wearerÂ’s jaws
+to keep the helmet in position.
+
+2 REFERENCES
+The following standards contain provisions which,
+through reference in this text, constitute provisions of
+this standard. At the time of publication, the editions
+indicated were valid. All standards are subject to
+revision and parties to agreements based on this
+standard are encouraged to investigate the possibility
+of applying the most recent editions of the standards
+indicated below:
+
+3.6.2 Chin Cup Â— It is an accessory of the chinstrap
+that fits round the point of the wearerÂ’s chin.
+
+IS No.
+1884 : 1993
+
+3.8.1 Protective Lower Face Cover Â— A detachable,
+movable or integral (permanently fixed) part of the
+helmet covering the lower part of the face and intended
+to protect the chin of the user against impacts.
+
+3.7 Peak Â— It is an extension of the shell above the
+eyes (detachable).
+3.8 Lower Face Cover Â— A detachable, movable or
+integral (permanently fixed) part of the helmet covering
+the lower part of the face.
+
+Title
+Automotive vehicles: Electric horns
+Â— Specification (third revision)
+9695 : 1980
+Methods for sampling of helmets
+9844 : 1981
+Methods of testing corrosion
+resistance of electroplated and
+anodized aluminium coatings by
+neutral salt spray test
+9973 : 1981
+Specification for visor for scooter
+helmets
+15575
+Electro acoustics Â— Sound level
+meters:
+(Part 1) : 2005 Specification
+(Part 2) : 2005 Pattern evaluation tests
+
+3.8.2 Non-protective Lower Face Cover Â— A
+detachable, movable or integral (permanently fixed)
+part of the helmet covering the lower part of the face
+that does not protect the chin of user against impact.
+3.9 Visor Â— A transparent protective screen extending
+over the eyes and covering all or part of the face.
+
+3 TERMINOLOGY
+
+3.10 Basic Plane of the Human Head Â— A plane at
+the level of the opening of the external auditory meatus
+(external ear opening) and the lower edge of the orbits
+(lower edge of the eye sockets).
+
+For the purpose of this standard, the following
+definitions shall apply (see Fig. 1 and Annex A).
+
+3.11 Basic Plane of the Headform Â— A plane, which
+corresponds to the basic plane of the human head.
+
+3.1 Two Wheeler Â— Any two wheeled motor vehicle
+with or without detachable side car.
+
+3.12 Central Vertical Axis Â— The line relative to
+human head or headform or helmet that lies in the plane
+of symmetry, and that is normal to the basic plane at a
+point equidistant from the front and back of the head
+or the headform or helmet.
+
+3.2 Protective Helmet Â— A helmet primarily intended
+to protect the wearerÂ’s head against impact.
+3.3 Shell Â— The hard part of the protective helmet
+which gives it its general shape.
+
+3.13 Reference Plane Â— A construction plane parallel
+to the basic plane of the headform at a distance from
+it, which is a function of the size of the headform.
+
+3.4 Protective Padding Â— A material used to absorb
+impact energy.
+1
+
+IS 4151 : 2015
+
+F IG. 1 TYPICAL SKETCH SHOWING I NTERNAL C OMPONENTS OF HELMET
+
+3.14 Neck Curtain Â— A part of the helmet attached
+to the lower edge of the helmet designed to protect
+against adverse weather conditions, dirt and small
+stones.
+
+4.5 Metal Parts
+
+4 MATERIAL
+
+The metal parts in helmet shall be either inherently
+corrosion resistant or shall have been treated for
+corrosion resistance. Such parts shall show no sign of
+corrosion when subjected to test as specified in IS 9844.
+
+4.1 Shell
+
+4.6 Visor
+
+The shell of the helmet shall be of metallic or nonmetallic materials conforming to the test requirements.
+
+If provided, it shall conform to IS 9973.
+
+4.2 Protective Padding
+It may be of expanded polystyrene or any other material
+having similar properties.
+
+Helmets shall be of the sizes matching to the sizes of
+headform of 500, 520, 540, 560, 570, 580, 600 and
+620 mm.
+
+4.3 Comfort Padding
+
+6 CONSTRUCTIONAL REQUIREMENTS
+
+It may be of expanded polyurethane foam,
+polyethylene or any other suitable material having
+similar properties.
+
+6.1 General
+
+5 SIZES
+
+6.1.1 The basic construction of the helmet shall be in
+the form of a hard outer shell containing additional
+means of absorbing impact energy and a retention
+system.
+
+4.4 Retention System
+The criteria for selection of material for chin strap and
+comfort padding shall be sweat-resistant, non-irritant
+and shall not be known to cause any skin disease.
+
+6.1.2 The protective helmet may be fitted with earflaps
+and a neck curtain. It may also have a detachable peak,
+a visor and a lower face cover. Visor, if fitted, shall
+2
+
+IS 4151 : 2015
+meet the requirements of IS 9973. If fitted with a non
+protective lower face cover the outer surface of the
+cover shall be marked Â“Does not provide any additional
+protection to chin from impactsÂ”.
+
+than 2 mm above the outer surface of the shell shall
+have a radius of minimum of 2 mm. The later specific
+requirements shall not apply if a projection satisfies
+the requirement in 7.4.1 or 7.4.2.
+
+6.1.3 No component or device shall be fitted to or
+incorporated in the protective helmet unless it is
+designed in such a way that it shall not cause injury
+and that, when it is fitted to or incorporated in the
+protective helmet, the helmet still complies with the
+performance requirements of this standard.
+
+6.2.8 There shall be no inward-facing sharp edges on
+the inside of the helmet. Rigid projecting internal parts
+shall be covered with padding so that any stresses
+transmitted to the head are not highly concentrated.
+6.2.9 The various components of the protective
+helmets shall be so assembled that they are not liable
+to become easily detached as a result of an impact.
+
+6.2 Shell
+The extent of the protection provided shall be as given
+in 6.2.1 to 6.2.7.
+
+6.3 Protective Padding
+The protective padding shall cover all the areas defined
+in 6.2.1 taking into account the requirements given
+in 6.2.3 and 6.2.4.
+
+6.2.1 The shell shall cover all areas above plane AAÂ’
+and shall extend downwards at least as far as the lines
+CDEF on both sides on the headform (see Fig. 2).
+
+6.4 Retention System
+
+6.2.2 At the rear, the rigid parts and, in particular, the
+shell shall not be within a cylinder of diameter 100
+mm and with axis situated at the intersection of the
+medium plane of symmetry of the headform and of a
+plane parallel to and 110 mm below the reference plane
+(see Fig. 2).
+
+The helmet shall be held in place on the wearerÂ’s head
+by means of a retention system which may be in the
+form of chin strap with buckle or double-D ring or
+sliding bar or any other similar locking device, which
+is secured under the lower jaw. All parts of the retention
+system shall be permanently attached to the system or
+to the helmet/shell.
+
+6.2.3 The helmet shall not dangerously affect the
+wearerÂ’s ability to hear and shall conform to the
+requirements laid down in 7.6.
+
+6.4.1 If the retention system includes a chinstrap, the
+strap shall not be less than 20 mm wide under a load
+of 150 N Â± 5 N applied under the conditions given
+in F-1.2 and F-1.3.
+
+6.2.4 The temperature in the space between the head
+and the shell shall not rise inordinately. To prevent this
+ventilation holes may be provided in the shell.
+Ventilation may be provided for increasing the comfort
+of the rider
+
+6.4.2 The chin strap shall not include a chin-cup.
+6.4.3 Chinstraps shall be fitted with a device to adjust
+and maintain tension in the strap.
+
+6.2.5 Above the reference plane, the shape shall be in
+the form of continuous, convex curve, except where
+shaping is provided for functional purposes. Below the
+reference plane, irregularities in the curve shall be
+smoothly faired. The shell shall not incorporate an
+integral peak, but may incorporate in integral lower
+face cover. Where means for attaching a visor are not
+provided, the profile at the front edge shall not prevent
+the wearing of goggles.
+
+6.4.4 Chin strap fastening and tensioning devices shall
+be positioned on the straps either so that there are no
+rigid parts extending more than 130 mm vertically
+below the headform reference plane with the helmet
+mounted on the appropriate sized headform, or so that
+the whole of the device is between the bony projections
+of the undersize of the lower jaw.
+6.4.5 If the retention system includes either a doubleD ring or sliding bar fastening device then means shall
+be provided to prevent the retention system being
+completely undone and also to retain the free end of
+the strap when the retention system is adjusted.
+
+6.2.6 All projections from or irregularities in the outer
+surface of the shell greater than 2 mm shall be tested
+for shear assessment according to test for projections
+and surface friction as per 7.4. The outer surface of
+the helmet shall be tested for friction assessment
+according to test for projections and surface friction.
+
+6.4.6 Sliding bar/double-D ring fastening devices shall
+be fitted with a pulling type flap to be used for releasing
+the retention system. Its colour shall be red and its
+minimum dimensions shall be 10mm Ã— 20 mm.
+
+6.2.7 All external projection shall be radiused and any
+external projections other than press fasteners shall be
+smooth and adequately faired. Rivet heads shall be
+radiused and shall not project more than 2 mm above
+the outer surface of the shell and shall have a radius of
+minimum of 1 mm. All external projections more
+
+6.4.7 If a retention system includes a quick-release
+mechanism, then the method of release of this
+mechanism shall be self-evident. Any levers, tabs,
+3
+
+IS 4151 : 2015
+buttons or other components which need to be operated
+to release the mechanism shall be coloured red, those
+parts of the rest of the system which are visible when
+closed shall not be similarly coloured, and the mode
+of operation shall be permanently indicated.
+
+6.7.2.1 Horizontally
+Two segments of dihedral angles symmetrical in
+relation to the median longitudinal vertical plane of
+the headform and situated between the reference and
+the basic planes. Each of these dihedral angles is
+defined by longitudinal vertical median plane of the
+headform and the vertical plane forming an angle of
+not less than 105Â° with the median longitudinal vertical
+plane and whose edge is the straight line LK
+(see Fig. 3A and 3C).
+
+6.4.8 The retention system shall remain closed when
+the tests (Impact absorption test, dynamic test of
+retention system and retention test) as described
+in 7.2, 7.5 and 7.7 are carried out.
+6.4.9 The buckle of the retention system shall be
+designed so as to preclude any possibility of incorrect
+manipulation. This means, inter-alia, that it shall not
+be possible for the buckle to be left in a partially closed
+position.
+
+6.7.2.2 Upwards
+A dihedral angle defined by the reference plane of the
+headform and a plane forming an angle of not less than
+7Â° with the reference plane and whose edge is the
+straight line L1, L2; the points L1 and L2 representing
+the eyes (see Fig. 3A and 3B).
+
+6.5 The characteristics or the materials used in the
+manufacture of helmets shall be known not to undergo
+appreciable alteration under the influence of ageing,
+or of the circumstances of use to which the helmet is
+normally subjected, such as exposure to sun, extremes
+of temperature and rain. For the parts of the helmet
+coming into contact with the skin, the materials used
+shall be known not to undergo appreciable alteration
+through the effect of perspiration or of toilet
+preparations. The manufacturer shall not use materials
+known to cause skin troubles.
+
+6.7.2.3 Downwards
+A dihedral angle defined by the basic plane of the
+headform and a plane forming an angle of not less than
+45Â° with the basic plane and whose edge is the straight
+line K1, K2 (see Fig. 3A and 3B).
+6.8 Workmanship and Finish
+
+6.6 After the performance of one of the above
+prescribed test, the protective helmet shall not exhibit
+any breakage or deformation dangerous to the wearer.
+
+6.8.1 All edges shall be smooth and rounded. Any
+external or internal projection permitted under 6.2.6
+and 6.2.7 shall be smooth and adequately faired to other
+surfaces.
+
+6.7 Peripheral Vision
+
+6.9 Mass
+
+6.7.1 The helmet shall be placed on the head form
+corresponding to its size of a helmet type by the
+procedure specified in Annex B.
+
+The protective helmets with lesser mass are preferred
+and may be available with the increasing availability
+of more advanced composites and materials. However,
+mass of the complete helmet (without peak, visor and
+detachable lower face cover, if provided) shall not
+exceed 1 500 g.
+
+6.7.2 In the condition mentioned in 6.7.1, there shall
+be no occultation in the field of vision bounded by
+planes as shown in Fig. 3A, 3B and 3C and shall satisfy
+the requirements as given in 6.7.2.1, 6.7.2.2 and 6.7.2.3.
+
+7 TESTS FOR HELMETS
+7.1 Each helmet type shall be conditioned as shown
+below:
+
+Total
+
+Number of Helmets to be Conditioned
+Test
+
+Impact
+absorption
+Rigidity
+Retention system
+
+Solvent + Ambient
+Temperature and
+Hygrometry
+Conditioning
+
+Solvent + Heat
+Conditioning
+
+Solvent + Low
+Temperature
+Conditioning
+
+Solvent Ultra violet
+Radiation
+Conditioning and
+Moisture
+Conditioning
+
+2
+
+1
+
+1
+
+1
+
+2
+1
+
+5
+2
+1
+
+4
+
+IS 4151 : 2015
+The largest size of each helmet type shall be tested for
+impact absorption and rigidity. For tests of the
+rentention system, helmet size shall be chosen such
+that the helmet to be tested shall be that offering the
+least favourable conditions (such as thickest padding,
+etc).
+
+7.2.1 The absorption efficiency shall be considered
+sufficient where the resultant acceleration measured
+at the centre of gravity of the headform at no time
+exceeds 275 g, and the head injury criterion does not
+exceed 2 400.
+7.2.2 The helmet shall not become detached from the
+headform.
+
+Additionally, for each smaller headform size within
+the size range of the helmet type two helmets shall
+undergo the impact absorption test. One helmet shall
+be heat conditioned, and the other low temperature
+conditioned. The conditioned helmets shall be
+impacted against either anvil, in equal numbers as far
+as possible.
+
+7.3 Rigidity Test
+The helmet shall be tested by the method prescribed in
+Annex D and shall meet the requirements given in 7.3.1
+and 7.3.2.
+7.3.1 Along each axis, the deformation measured
+under the 630 N load shall not exceed by more than
+40 mm than that measured under the initial 30 N load.
+
+7.1.1 Types of Conditioning
+7.1.1.1 Solvent conditioning
+
+7.3.2 After restoration of the 30 N load, the
+deformation measured shall not exceed by more than
+15 mm than that measured under the initial 30 N load.
+
+Take a cotton cloth approximately 150 mm square and
+a quantity approximately 25 ml of a solvent consisting
+of test liquid with (70 percent octane and 30 percent
+toluene). Using the cloth soaked in the solvent, apply
+the solvent to all those regions of the outside surface
+of the helmet shell within 50 mm of the chin strap
+fixings and keep these regions wet within the solvent
+for 7.5 Â± 2.5 s. Repeat the procedure on the remainder
+of the external surfce including any chin guard, keeping
+these regions wet for 12.5 Â± 2.5 s. No further
+conditioning or testing be done during the following
+30 min.
+
+7.4 Test for Projections and Surface Friction
+An appropriate size of helmet shall be subjected to the
+test either by method A or by method B as prescribed
+in Annex E and shall meet the requirements given
+in 7.4.1 or 7.4.2.
+7.4.1 Test for Projections and Surface Friction
+(Method A)
+7.4.1.1 When tested against the bar anvil the helmet
+shall satisfy the following requirement:
+
+7.1.1.2 Ambient temperature and hygrometry
+conditioning
+
+The peak longitudinal force measured on the anvil shall
+not exceed 2 500 N nor shall its integral with respect
+to time over the duration of the impact exceed 12.5 Ns
+for any of the selected impact points.
+
+The helmet shall be exposed to a temperature of 25 Â±
+5Â°C and a relative humidity of 65 Â± 5 percent for at
+least 4 h.
+7.1.1.3 Heat conditioning
+
+7.4.1.2 When tested against the abrasive anvil, a
+second helmet shall satisfy the following requirement:
+
+The helmet shall be exposed to a temperature of 50 Â±
+2Â°C for not less than 4 h and not more than 6 h.
+
+The peak longitudinal force measured on the anvil shall
+not exceed 3 500 N, nor shall its integral with respect
+to time over the duration of the impact exceed 25 Ns
+for any of the selected impact points.
+
+7.1.1.4 Low-temperature conditioning
+The helmet shall be exposed to a temperature of Â–20 Â±
+2Â°C for not less than 4 h and not more than 6 h.
+
+7.4.2 Test for Projections and Surface Friction
+(Method B)
+
+7.1.1.5 Ultraviolet-radiation conditioning and
+moisture conditioning
+
+7.4.2.1 For shear assessment the tested projection,
+shall shear away, shall be detached or alternatively shall
+not prevent the assessment bar from sliding past the
+projection. In all cases the bar on the horizontal carriage
+shall travel past the projection.
+
+The outer surface of the protective helmet shall be
+exposed successively to ultraviolet irradiation by a
+125 W xenon filled quartz lamp for 48 h at a range of
+25 cm, followed by spraying for 4 to 6 h with water at
+ambient temperature at the rate of 1 litre/min.
+
+7.4.2.2 For friction assessment the abrasive carriage
+shall not be brought to rest by the helmet.
+
+7.2 Impact Absorption Test
+The helmet shall be tested by the method prescribed in
+Annex C and shall meet the requirements given in 7.2.1
+and 7.2.2.
+
+7.5 Dynamic Test of Retention System
+The helmet shall be tested for their retention system
+5
+
+IS 4151 : 2015
+by the method prescribed in Annex F and shall meet
+the requirements given in 7.5.1 and 7.5.2.
+
+released by pressure on a certain part, the system shall
+not release when a rigid sphere of diameter 100 mm is
+pressed with a force of 100 Â± 5 N directly in the line of
+movement of the part.
+
+7.5.1 During the test, the dynamic displacement of the
+point of application of the force shall not exceed 35 mm.
+
+7.10.1.2 If such a system incorporates more than one
+quick-release mechanism, or one such mechanism
+requiring more than one operation to release it, the
+system shall be deemed not to comply with this
+requirement if sufficient opening of the system is
+caused by the pressure of the sphere on only one quickrelease mechanism or for only one operation,
+whichever is appropriate, to allow the release of the
+appropriate headform.
+
+7.5.2 After 2 min, the residual displacement of the
+point of application of the force, as measured under a
+mass of 15 kg Â± 0.5 kg shall not exceed 25 mm.
+7.5.3 Damage to the retention system shall be accepted
+provided that it is still possible to take the helmet easily
+off the headform and that the requirements given
+in 7.5.1 and 7.5.2 above are met.
+7.5.4 In the case of retention system fitted with quick
+release mechanism it shall be possible to release the
+mechanism in accordance with 7.10.2.
+
+7.10.2 Ease of Release
+After the additional force has been removed, the
+opening system shall be capable of being operated by
+a force not exceeding 30 N. However, if the quick
+release mechanism is incorporated in the helmet shell,
+the opening system shall be capable of being operated
+by a force not exceeding 60 N.
+
+7.6 Audibility Test
+The helmet shall be tested for their sound attenuation
+properties by the method prescribed in Annex G and
+shall meet the requirements given in 7.6.1.
+7.6.1 The sound transmission loss shall not be more
+than 10 dB over the frequency range 250 to 2 000 Hz.
+
+7.10.2.1 The helmet shall be mounted on the test
+machine as shown in Fig. 8 as described in F-1.3 such
+that a static force of 150 Â± 5 N is applied to the retention
+system. An additional static force of 350 Â± 5 N shall
+be applied to the retention system for at least 30 seconds
+and then removed.
+
+7.7 Retention (Detaching) Test of Helmet
+The helmet shall be tested by the method prescribed in
+Annex H and shall meet the requirements given in 7.7.1.
+7.7.1 After the test the angle between the reference
+line situated on the shell of the helmet and the reference
+plane of the headform shall not exceed 30Â°.
+
+7.8.1 The total slippage through the grip shall not
+exceed 10 mm.
+
+7.10.2.2 The buckle opening force shall be applied
+using a dynamometer or similar device in the manner
+and direction of normal use. In the case of a push button
+the contact end shall be a polished metal hemisphere
+with radius 2.5 Â± 0.1 mm. The opening force shall be
+applied on the geometric centre of the push button or
+respective application areas.
+
+7.9 Test for Resistance to Abrasion of the Chin Strap
+
+7.10.3 Durability of Quick-Release Mechanisms
+
+The test shall be performed by the method prescribed
+in Annex K on every device in which the strap slides
+through a rigid part of the retention system, with the
+following exceptions as mentioned in 7.9.1 and 7.9.2.
+It shall meet the requirements given in 7.9.3.
+
+The quick release mechanism shall not fracture nor
+disengage when a tensile force of 2.0 kN Â± 50 N is
+progressively applied to the retention system in the
+direction in which the mechanism is designed to bear
+load. Following the application and removal of the
+force the quick release mechanism shall still be capable
+of operation.
+
+7.8 Micro-slip Test of the Chin Strap
+It shall be tested by the method prescribed in Annex J
+and shall meet the requirements given in 7.8.1.
+
+7.9.1 Where the micro-slip test described in 7.8, shows
+that the strap slips less than half the prescribed value; or
+7.9.2 Where the composition of the material used, or
+the information already available, renders the test
+superfluous in the judgment of the technical service.
+
+7.10.3.1 Procedure
+7.10.3.1.1 Subject the quick-release mechanism to the
+following procedures in the order given:
+
+7.9.3 After the test described in K-1.3 the strap shall
+withstand a tension of 3 KN without breaking when
+tested as per K-1.4.
+
+Using apparatus appropriate to the particular design
+of mechanism carry out the following procedure. Close
+and lock the mechanism. Apply a loading force of 20
+Â± 1 N in the direction in which the mechanism is
+designed to bear load, then unlock and disengage the
+mechanism under load. Complete this cycle in not less
+than 2 s. Repeat for a total of 5 000 cycles.
+
+7.10 Tests for Retention Systems Relying on QuickRelease Mechanisms
+7.10.1 Inadvertent Release by Pressure
+7.10.1.1 If the retention system is designed to be
+6
+
+IS 4151 : 2015
+7.10.3.1.2 If the quick-release mechanism incorporates
+metal components carry out the following procedure:
+
+c) Month and year of manufacturing;
+d) Size;
+e) Mass of the helmet to the nearest 50 g. (For
+information to the consumer only)
+
+Place the complete mechanism in a closed cabinet so
+that the mechanism can be continuously wetted by a
+spray while still allowing free access of air to all parts
+of the mechanism. Subject the mechanism to a spray
+of a solution consisting of 5% Â± 1% (m/m) of reagent
+grade sodium chloride in distilled or de-ionized water
+for a period of 48 Â± 1 h at a temperature of 35Â° C Â± 5Â° C.
+Rinse the mechanism thoroughly in clean running water
+to remove salt deposits and allow it to dry for 24 Â± 1 h.
+
+NOTE Â— The maximum mass quoted should include all the
+accessories that are supplied with the helmets, with the
+packaging, as it is placed on the market, whether or not those
+accessories have actually been fitted to the helmetÂ”.
+
+f) Name of the country of manufacturing; and
+g) To be marked as Â“Does not provide any
+additional protection to chin from impactsÂ”,
+if applicable (see 6.1.2)
+
+Repeat the procedure given in 7.10.3.1.1.
+8 SAMPLING
+CONFORMITY
+
+AND
+
+CRITERIA
+
+9.1.1 The marking shall not be in the main field of
+vision.
+
+FOR
+
+9.2 BIS Certification Marking
+
+The method of sampling and criteria for conformity
+shall be as per IS 9695.
+
+The helmet may also be marked with the Standard
+Mark.
+
+9 MARKING
+
+9.2.1 The use of the Standard Mark is governed by
+the provisions of the Bureau of Indian Standards Act,
+1986 and the Rules and Regulations made thereunder.
+The details of conditions under which the license for
+the use of the Standard Mark may be granted to
+manufacturers or producers may be obtained from the
+Bureau of Indian Standards.
+
+9.1 Each helmet shall be clearly and indelibly marked
+with the following information in a readily accessible
+places:
+a) ManufacturerÂ’s name or trade-mark;
+b) Batch No.;
+
+7
+
+IS 4151 : 2015
+
+ANNEX A
+(Clauses 3 and 6.2)
+HEADFORMS
+
+Headforms
+
+Size
+
+X
+
+Y
+
+AC
+
+HD
+
+A
+
+500
+
+24
+
+90
+
+80
+
+88
+
+C
+
+520
+
+25
+
+93
+
+82
+
+90
+
+E
+
+540
+
+26
+
+96
+
+84
+
+92
+
+G
+
+560
+
+27
+
+99
+
+86
+
+94
+
+J
+
+570
+
+27.5
+
+102.5
+
+87
+
+95
+
+K
+
+580
+
+28
+
+104
+
+88
+
+96
+
+M
+
+600
+
+29
+
+107
+
+90
+
+98
+
+O
+
+620
+
+30
+
+110
+
+92
+
+100
+
+NOTE Â— For details see Annex M and Annex N.
+All dimensions in millimetres.
+
+F IG. 2 MINIMUM EXTENT OF PROTECTION
+
+8
+
+IS 4151 : 2015
+
+FIG. 3A PERIPHERAL VISION
+
+9
+
+IS 4151 : 2015
+
+FIG. 3B PERIPHERAL V ISION Â— V ERTICAL FIELD
+
+10
+
+IS 4151 : 2015
+
+FIG. 3C PERIPHERAL V ISION Â— HORIZONTAL FIELD
+
+11
+
+IS 4151 : 2015
+
+FIG. 4 I DENTIFICATION OF I MPACT POINTS
+
+12
+
+IS 4151 : 2015
+
+ANNEX B
+(Clause 6.7.1)
+POSITIONING OF THE HELMET ON THE HEADFORM
+B-1 The helmet is placed on a headform of appropriate
+size. A load of 50 N is applied on the crown of the
+helmet in order to adjust the helmet on the headform.
+It shall be ascertained that the vertical median plane of
+the helmet coincides with the median vertical plane of
+the headform.
+
+B-2.2 That the requirements for the minimum downward
+angle and the horizontal field of vision are satisfied.
+B-2.3 Requirements mentioned in 6.2.2 relating to the
+rear projection shall be met.
+B-3 If one of the above conditions is not met, the
+helmet is moved slightly from front to rear to seek a
+position where all the requirements are met. Once such
+a position is determined, a horizontal line is drawn on
+the shell at the level of the AAÂ’ plane. This horizontal
+line shall determine the reference plane for the
+positioning of the helmet during the tests.
+
+B-2 The front edge of the helmet is placed against a
+gauge to check the minimum angle for the upward field
+of vision. The following points are then checked.
+B-2.1 That the line AC and the ACDEF zone are
+covered by the shell (see Fig. 2)
+
+ANNEX C
+(Clause 7.2)
+IMPACT ABSORPTION TEST
+C-1 PRINCIPLE
+
+C-2.2 Anvils
+
+Impact absorption capacity is determined by recording
+against time, the acceleration imparted to a headform
+fitted with the helmet, when dropped in guided free fall
+at a specified impact velocity upon a fixed steel anvil.
+
+C-2.2.1 The flat steel anvil shall have a circular impact
+face of 130 mm Â± 3 mm diameter.
+C-2.2.2 The kerbstone anvil shall have two sides
+forming an angle of 105Â° Â± 5Â°, each of them with a
+slope of 52.5Â° Â± 2.5Â° towards the vertical and meeting
+along a striking edge with a radius of 15 mm Â± 0.5
+mm. The height shall be at least 50 mm and the length
+not less than 125 mm. The orientation is 45Â° to the
+longitudinal vertical plane at Points B, P and R, and
+45Â° to the base plane at Point X (front low, back up).
+
+C-2 APPARATUS (see Fig. 5)
+The test apparatus shall comprise of the following:
+a)
+b)
+c)
+d)
+e)
+f)
+
+A base;
+An anvil rigidly fixed to a base;
+A free fall guidance system;
+A mobile system supporting the helmeted
+headform;
+A metal headform fitted with a tri-directional
+accelerometer and a measuring assembly; and
+A system by which the point of impact may
+be brought into correspondence with the
+centre of the anvil.
+
+C-2.3 Mobile System and Guides
+The mobile system supporting the headform shall be
+such that its characteristics do not affect the
+measurement of acceleration at the centre of gravity
+of the headform. It shall also be such that any point in
+the area ACDEF can be positioned vertically above the
+centre of the anvil. The guides shall be such that the
+impact velocity is not less than 95 percent of the
+theoretical velocity.
+
+C-2.1 Base
+C-2.1.1 The base shall be made of steel or concrete or
+a combination of these materials and have mass of at
+least 500 kg. It shall be so constructed that there is no
+significant deformation of surface under the test load.
+
+C-2.4 Accelerometer and Measuring Assembly
+C-2.4.1 The accelerometer shall be capable of
+withstanding a maximum acceleration of 2 000 g
+without damage. Its maximum mass shall be 50 g. The
+measuring system including the drop assembly shall
+
+C-2.1.2 No part of the base or anvil shall have a
+resonance frequency liable to affect the measurements.
+13
+
+IS 4151 : 2015
+have a frequency response in accordance with channel
+frequency class (CFC) 1 000 (see ISO 6487).
+
+with the requirements of Annex B on a headform of
+appropriate size selected from among those listed
+in C-2.5.1 when testing impact Points B, X, P, R. The
+helmet shall then be tipped towards the rear so that the
+front edge of the helmet in the median plane is
+displaced by 25 mm; the retention system shall then
+be adjusted under the chin of the headform; if the
+system includes an adjustable chinstrap, the strap is
+tightened as for normal use.
+
+C-2.4.2 The HIC shall be calculated as the maximum
+(depending from t1 and t2 of the equation):
+2.5
+
+J1
+ï£® 1
+ï£¹
+= (J) @Jï£º
+HIC = ï£¯
+(J2 âˆ’ J1 )
+âˆ«
+ï£¯ï£° J2 âˆ’ J1 J2
+ï£ºï£»
+where Â‘aÂ’ is the resultant acceleration as a multiple of
+Â‘gÂ’ and t1 and t2 are any two points in time(s) during
+the impact. The acceleration data has to be sampled at
+a frequency of at least 8 000 Hz and filtered
+(CFC 1 000) (see ISO 6487).
+
+C-3.2.2 When testing impact Point Â‘SÂ’ on a helmet
+with a protective lower face cover, the helmeted
+headform is tipped forwards so that the central vertical
+axis of the headform is inclined at an angle of 65 Â± 3Â°
+to the vertical with the vertical longitudinal plane of
+symmetry of the helmeted head form in the vertical
+position. If the impact point would be within 15 mm
+of the rim, the helmeted headform shall be repositioned so that the impact point is not less than 15
+mm from the rim.
+
+C-2.5 Headforms
+C-2.5.1 The headform to be used for the impact
+absorption test shall be made of a metal of
+characteristics such that the headform present no
+resonance frequency below 3 000 Hz. The general
+characteristics of the test headform shall be used shall
+be as given in Table 1.
+
+C-3.2.3 The test headform shall be so positioned that
+the designated point on the helmet is vertically above
+the centre of the anvil. The plane tangential to the point
+of impact shall be horizontal. This prescription does
+not apply to S impact point.
+
+Table 1 General Characteristics of Test Headforms
+Sl No.
+
+Symbols
+
+(1)
+
+(2)
+
+Size
+mm
+(3)
+
+Mass
+kg
+(4)
+
+C-3.2.4 The protective helmets placed on the market
+with a visor shall be tested with the visor and without
+peak in the closed position.
+
+i)
+A
+500
+3.1 Â± 0.10
+ii)
+E
+540
+4.1 Â± 0.12
+iii)
+J
+570
+4.7 Â± 0.14
+iv)
+M
+600
+5.6 Â± 0.16
+v)
+O
+620
+6.1 Â± 0.18
+NOTE â€” Headform of sizes not listed in this table shall be
+tested with the next smaller headform size given in Fig.2.
+
+C-3.3 Impact Velocity
+C-3.3.1 The test shall be completed not more than five
+minutes after the helmet is taken from the conditioning
+chamber. If the test does not complete within the
+stipulated time the same shall be kept for reconditioning
+for not less than 1 h. Tests at Point S shall be carried
+out after tests as Points B, X, P and R. The drop height
+shall be such that the unit constituted by the headform
+and helmet falls on the test anvil at a velocity, which,
+immediately before impact, is equal to:
+
+C-2.5.2 The shape of the test headforms shall be:
+a)
+
+Above the reference plane, in conformity with
+the detailed dimensions of the test headforms
+shown in Annex M;
+b) Below the reference plane, in conformity with
+the detailed dimensions of the test headforms
+shown in Annex N;
+C-2.5.3 The centre of gravity of the headform shall
+be near the Point G on the central vertical axis at 1 mm
+below the reference plane, as defined in Annex N. The
+headform shall contain, near its centre of gravity, a
+housing for a tri-directional accelerometer.
+
+5
+m/s for both anvils specified in C-2.2.
+7.5 +âˆ’0.1
+0
+5
+5.5 +âˆ’0.1
+m/s for tests at Point S.
+0
+
+C-3.3.2 The velocity of the moving mass is measured
+between 1 cm and 6 cm before impact, to an accuracy
+of 1 percent. The acceleration against time at the centre
+of gravity of the headform is measured and recorded
+and the Head Injury Criterion (HIC) as prescribed
+in C-2.4.2 shall be calculated.
+
+C-2.5.4 For tests other than those of impact absorption,
+headforms complying only with the geometrical
+provisions of C-2.5.2 may be used.
+C-3 PROCEDURE
+C-3.1 Marking of Points of Impact
+
+C-3.4 Selection of Points of Impact
+
+Before conditioning, the points and areas of impact
+are marked as indicated in C-3.4.3 and Fig. 4.
+
+C-3.4.1 Each test shall be carried out with 4 impacts
+on one helmet on the points B, X, P, and R, in this
+sequence. When a helmet with a protective lower face
+cover is being tested then an additional Point S shall
+
+C-3.2 Positioning of the Helmet after Conditioning
+C-3.2.1 The helmet shall be positioned in accordance
+14
+
+IS 4151 : 2015
+
+FIG. 5 T EST MACHINE HEAD FORM DROP ASSEMBLY
+be impacted after the four other points, but only against
+the anvil specified in C-2.2.1.
+
+P, in the area with a radius of 50 mm and a centre at
+the intersection of the central vertical axis and the outer
+surface of the helmet shell.
+
+C-3.4.2 After each impact the helmet shall be repositioned correctly on the headform prior to the next
+impact, without interfering with the adjustment of the
+retention system. Before each impact on the Point S the
+helmet shall be re-positioned correctly on the headform
+and the retention system adjusted under the chin of the
+headform; if the system includes an adjustable chin strap,
+the strap is tightened as much as possible.
+
+S, in the lower face cover area, situated within an area
+bounded by a sector of 20Â° divided symmetrically by the
+vertical longitudinal plane of symmetry of the helmet.
+Impacts at Points B, X and R should be within 10 mm
+radius of the defined point.
+C-3.5 Combination of Conditioning and Anvils
+
+C-3.4.3 The points of impact are defined for each
+helmet (Fig. 4).
+B, in the frontal area, situated in the vertical
+longitudinal plane of symmetry of the helmet and at
+an angle of 20Â° measured from Z above the Â‘AAÂ’ Plane.
+X, in either the left or right lateral area, situated in the
+central transverse vertical plane and 12.7 mm below
+the Â‘AAÂ’ Plane.
+
+Conditioning: Solvent
+Plus
+
+Anvils1)
+
+Ambient
+Heat
+Low temperature3)
+Ultraviolet radiation
+and moisture
+
+Flat and kerbstone
+Kerbstone2)
+Flat2)
+Flat or kerbstone (to be
+selected by the laboratory)
+
+Point Â‘SÂ’ shall only be impacted against the flat anvil.
+Only for the largest helmet size. For smaller headforms in
+the size range of thehelmet type either anvil may be used.
+3)
+Only for each helmet size subjected to low temperature
+conditioning shallundergo the impact test at Point Â‘SÂ’.
+1)
+2)
+
+R, in the rear area, situated in the vertical longitudinal
+plane of symmetry of the helmet and at an angle of
+20Â° measured from Z above the Â‘AAÂ’ Plane.
+15
+
+IS 4151 : 2015
+
+ANNEX D
+(Clause 7.3)
+RIGIDITY TEST
+D-1 PROCEDURE
+D-1.1 The helmet, after undergoing ambient
+temperature and humidity conditioning shall be placed
+between two parallel plates by means of which a known
+load can be applied along the longitudinal axis1) (line
+LL in Fig. 6) or the transverse axis (line TT in Fig. 6).
+The surface of the plates shall be large enough to
+contain a circle of at least 65 mm in diameter. An initial
+load of 30 N shall be applied at a minimum plates speed
+of 20 mm/min, and after 2 min the distance between
+the plates shall be measured. The load shall then be
+increased by 100 N at a minimum plate speed of 20
+mm/min and then wait for 2 min. This procedure shall
+be repeated until the application of a load of 630 N.
+
+FIG. 6 R EPRESENTATIVE F IGURE INDICATING
+LONGITUDINAL AND TRANSVERSE AXIS
+axis shall be a new helmet and another new helmet shall
+be used for the test along the transverse axis.
+
+D-1.2 The load applied to the plates shall then be
+reduced to 30 N at a minimum plate speed of 20 mm/
+min, the distance between the plates shall then be
+measured.
+
+During the test along the longitudinal axis the contact point
+between the helmet and one of the two plates shall be the Â‘BÂ’
+impact point.
+1)
+
+D-1.3 The helmet used for the test along the longitudinal
+
+ANNEX E
+(Clause 7.4)
+TEST FOR PROJECTIONS AND SURFACE FRICTION
+E-1 TEST FOR PROJECTIONS AND SURFACE
+FRICTION (METHOD A)
+
+b) a free fall guidance system,
+c) a mobile system supporting the helmeted
+headform,
+d) a headform conforming to that referred to in
+E-1.2.5,
+e) a system which may be adjusted such that the
+point of impact can be brought into
+correspondence with the upper part of the face
+of the anvil,
+f) a means of recording the continuously
+changing transmitted anvil force during the
+impact, and
+g) a suitable energy absorbing base and catch
+net to prevent damage to the helmet after the
+impact.
+
+E-1.1 Principle
+The rotation-inducing forces caused by projections on
+the helmet and friction against the outer surface of the
+helmet which occur when a helmeted headform is
+dropped vertically on to an inclined anvil are measured
+in the longitudinal axis of the anvil. The peak force
+and its integral with respect to time over the duration
+of the positive impulse are used as performance criteria.
+E-1.2 Apparatus (see Fig. 7)
+The test apparatus shall comprise:
+a)
+
+an anvil rigidly fixed to a base,
+16
+
+IS 4151 : 2015
+E-1.2.1 Base
+
+accordance with channel frequency class (CFC) 1 000
+(see ISO 6487).
+
+This shall conform to the requirements specified
+in C-2.1.
+
+E-1.2.5 Headform
+
+E-1.2.2 Anvil
+
+The headform shall be that referred to in C-2.5.1
+characterized by the Symbol J.
+
+E-1.2.2.1 The anvil is mounted securely at an angle
+of 15Â° to the vertical with provision for fore-and-aft
+adjustment. The anvil has a minimum width of 200
+mm and is adaptable to carry either of two different
+impact surfaces as follows.
+
+E-1.3 Procedure
+E-1.3.1 The drop height shall be such that the unit
+constituted by the headform and helmet falls on the
+test anvil at a velocity, which, immediately before
+5
+m/s.
+impact, is equal to 8.5 +âˆ’0.1
+0
+
+E-1.2.2.2 The bar anvil consists of a series of at least
+5 horizontal bars at 40 mm centres. Each bar is made
+from a steel strip of height 6 mm and width 25 mm
+with its uppermost edge machined to a 1 mm radius
+and the lower 15 mm of its face chamfered at an angle
+of 15Â° so that, as mounted, the upper edge of each bar
+is fully exposed from vertically above. The bars are
+casehardened to a depth of approximately 0.5 mm.
+
+E-1.3.2 Selection and Positioning of the Helmet
+E-1.3.2.1 An appropriate size helmet shall be selected
+to fit the headform referred to in C-2.5.1. The
+horizontal axis of the helmet shall be determined by
+placing the helmet on a headform, of a type referred to
+in C-2.5, according to the requirements of Annex B.
+The helmet shall then be removed from that headform
+and placed on a headform of a type referred to
+in C-2.5.1. A load of 50 N is applied to the crown of
+the helmet in order to adjust the helmet on the headform
+such that there is contact between the crown of the
+headform and the inner surface of the helmet. The
+horizontal plane of the helmet shall then be adjusted
+to be within 90Â° Â± 5Â° of vertical axis of the headform.
+The retention system is then adjusted under the chin
+of the headform: if the system includes an adjustable
+chin strap, the strap is tightened as much as possible.
+
+E-1.2.2.3 The bar anvil should be used to assess the
+tangential forces and their integrals with time caused
+by projections on the helmet, for example visor fittings,
+screws, press studs and steps in the shell surface, etc.
+E-1.2.2.4 The abrasive anvil is a sheet of grade
+80 closed-coat aluminum oxide abrasive paper with a
+minimum supported length of 225 mm and is securely
+clamped to the base of the anvil to prevent slippage.
+E-1.2.2.5 The abrasive anvil should be used to assess
+the tangential forces and their integrals with time
+caused by friction against the outer surface of the
+helmet. This is particularly applicable to selected areas
+of helmets, the outer surface of which either have
+significant variations of curvature or are made of more
+than one material.
+
+E-1.3.2.2 The test headform shall be so positioned that
+the chosen impact point on the helmet is vertically
+above the upper part of the face of the anvil.
+E-1.3.2.3 The helmet shall be tested in any condition
+in which it may be placed on the market, that is both
+with and without accessories if they are supplied as
+original equipment. Helmets placed on the market with
+a visor shall be tested with the visor in the closed
+position.
+
+E-1.2.2.6 The anvil is fitted with force transducer(s)
+connected to recording apparatus so that the transmitted
+longitudinal force component can be measured and
+continuously recorded with an accuracy of Â± 5 percent
+during a glancing blow to any part of its exposed surface.
+
+E-1.3.3 Selection of Impact Points
+
+E-1.2.3 Mobile System and Guides
+
+E-1.3.3.1 Any point on the helmet shell may be
+selected. The impact point should be selected with
+regard to the anvil against which the helmet is to be
+tested, taking into account the function of the anvils
+given in E-1.2.2.2 and E-1.2.2.4. The helmet shall be
+tested as many times as necessary to ensure that all
+notable features are evaluated.
+
+The mobile system supporting the headform shall be
+such that its characteristics do not affect the
+measurement of force in the anvil. It shall also be such
+that any point on the helmet can be positioned vertically
+above the anvil. The guides shall be such that the impact
+velocity is not less than 95 percent of the theoretical
+velocity.
+
+When the abrasive anvil is used, evaluate the front,
+rear, sides and crown areas of the helmet, selecting
+within the general areas, sites on the outer surface
+which are likely to produce the greatest force and/or
+the greatest impulse where impulse is the integral of
+force with respect to time over the duration of the
+
+E-1.2.4 Force and Measuring Assembly
+The force transducers fitted to the anvil shall be capable
+of withstanding a maximum force of 20 000 N without
+damage. The measuring system including the anvil
+assembly shall have a frequency response in
+17
+
+IS 4151 : 2015
+impact. Examples of such areas are those having the
+greatest radius of curvature (that is the flattest surface)
+or areas having more than one type of surface, for
+example a visor fixing cover plate or a painted shell
+partially overlaid by a fabric cover.
+
+slippage. At its end towards the drop weight and in
+this direction the carriage has a 80 mm Â± 1 mm long
+smooth steel area not being covered by the abrasive
+paper and higher than the rest of the carriage by the
+thickness of the abrasive paper plus 0.5 Â± 0.1 mm.
+
+NOTE Â— The primary impact site on any projection is likely
+to be opposite to the site where the projection receives
+maximum support. For example, the primary impact site on a
+visor cover plate assembly is opposite to the area where the
+visor and cover plate locates in a recess in the shell.
+
+E-2.2.1.2 For shear assessment the carriage is provided
+in the middle, with a bar made form a steel strip of
+height 6 mm and width 25 mm with is uppermost edges
+machined to a 1 mm radius. The bar is casehardened
+to a minimum depth of 0.5 mm.
+
+E-1.3.3.2 The rim of the shell and the upper and lower
+edge of the visor situated within an area bounded by a
+sector of 120Â° divided symmetrically by the vertical
+longitudinal plane of symmetry of the helmet do not
+constitute a projection for the purpose of this test.
+
+E-2.2.1.3 The carriage and either attachment shall
+have a total mass of 5.0 +âˆ’00.2 kg.
+E-2.2.2 Horizontal Guide
+
+E-2 TEST FOR PROJECTIONS AND SURFACE
+FRICTION (METHOD B)
+
+The horizontal guide, which guides and supports the
+carriage, may consist of two cylindrical bars on which
+the ball bearings of the carriage may freely travel.
+
+E-2.1 Principle
+
+E-2.2.3 Roller with a Wire Rope or Strap
+
+The rotation-inducing forces caused by projections on
+the helmets and friction against the outer surface of the
+helmets are assessed firstly by a shear impact on the
+projections using a shear edge against which the
+projections shall shear away, be detached, or permit the
+shear edge to slide past the projections. The friction is
+assessed by the displacement of a carriage abrading the
+outer surface of the helmet. The shear impact and
+abrading carriage displacement are generated by a drop
+weight device.
+
+The rollers shall have a diameter of at least 60 mm and
+lead the wire rope or strap from the horizontal into the
+vertical direction. The horizontal end of the wire rope
+or strap is fixed to the carriage; the vertical end is fixed
+to the drop weight.
+E-2.2.4 Drop Weight
+The drop weight shall have a mass of 15.0 +âˆ’0.5
+0 kg. For
+shear assessment the free drop height shall be 500.0 +âˆ’0.5
+0
+mm with provision for further possible travel of at least
+400 mm. For testing the friction assessment the free
+drop height shall be 500.0 +âˆ’0.5
+mm with provision for
+0
+further possible travel of at least 400 mm.
+
+E-2.2 Apparatus (see Fig. 8)
+The test apparatus shall comprise:
+a)
+
+a horizontal guided carriage with
+interchangeable attachments for abrasive
+paper or a shear edge.
+b) a horizontal guide and support for this
+carriage.
+c) a roller with a wire rope or a strap or a similarflexible connection.
+d) lever connecting the headform to the test
+apparatus with a hinge.
+e) an adjustable system supporting the headform.
+f) a drop weight to load the lower end support
+of the wire rope, or a strap, after the weight is
+released.
+g) a system to support a headform and to apply
+a force to the helmet normal to the carriage.
+
+E-2.2.5 Headform Support
+The system supporting the headform shall be such that
+any point on the helmet can be positioned in contact
+with the upper surface of the carriage.
+E-2.2.6 Lever and Hinge
+A rigid lever shall connect the headform support of
+the test apparatus with a hinge. The height of the hinge
+pivot above the upper surface of the carriage shall not
+be greater than 150 mm.
+E-2.2.7 Loading Mass
+A loading system is used to generate a force of
+400.0 +âˆ’100 N on the helmet normal to the surface of the
+carriage. This force shall be measured before each test.
+
+E-2.2.1 Carriage
+
+E-2.2.8 Verification of the Test Apparatus
+
+E-2.2.1.1 For friction assessment the carriage bears a
+sheet of grade 80 closed-coat aluminium oxide abrasive
+paper with a supported length of 300.0 (Â–0.0/+3.0) mm
+and securely clamped to the carriage to prevent
+
+With the unloaded carriage and a drop height of 450
+mm the velocity of the carriage after 250 mm of travel
+shall be 4.0 Â± 0.1 m/s. The requirements shall be
+verified after every 500 helmet tests or once every 6
+months whichever is sooner.
+18
+
+IS 4151 : 2015
+E-2.3 Procedure
+
+E-2.3.3 Test of Outer-surface
+
+E-2.3.1 Positioning of the Helmets
+
+The abrasive paper is mounted on the carriage in the
+position specified in E-2.2.1. The chosen outer surface
+of the helmet is lowered on to the abrading carriage at
+the centre of the flat surface without abrasive paper. A
+loading mass is applied in accordance with E-2.2.7.
+
+E-2.3.1.1 The helmet is placed on a headform of
+appropriate size in accordance with the requirements
+of Annex B. The helmet is tipped towards the rear so
+that the front edge of the helmet in the median plane is
+displaced by 25 mm; if the helmet includes an
+adjustable chin strap, the strap shall be tightened as
+much as possible. The headform shall be so positioned
+that the chosen location on the helmet can be positioned
+in contact with the upper surface of the horizontal
+carriage.
+
+The drop weight is released from its upper position in
+accordance with E-2.2.4. The abrasive paper shall be
+changed after every test.
+E-2.3.4 Selection of Test Points
+
+E-2.3.2 Test of Projection
+
+E-2.3.4.1 Any point on the helmet may be selected
+for friction and/or shear assessment. A helmet shall be
+tested as many times as necessary to ensure that all
+notable features are evaluated with one test only per
+feature. Re-orientate the helmet as necessary to allow
+every feature to be tested. For shear assessment evaluate
+all different external projections greater than 2 mm
+above the outer surface of the shell. For friction
+assessment, evaluate areas of the outer surface that are
+likely to produce the greatest friction.
+
+The headform is adjusted in order to have the chosen
+projection on the carriage so that the shear edge is
+positioned 50 mm from the projection and makes lateral
+contact with the projection after the drop weight is
+released from its upper position.
+
+E-2.3.4.2 The rim of the shell and the upper and lower
+edge of the visor situated within an area bounded by a
+sector of 120Â° divided symmetrically by the vertical
+longitudinal plane of symmetry of the helmet do not
+constitute a projection for the purpose of this test.
+
+E-2.3.1.2 The helmet shall be tested in any condition
+in which it may be placed on the market, that is both
+with and without accessories if they are supplied as
+original equipment. Helmets placed on the market with
+a visor shall be tested with the visor in the closed
+position.
+
+FIG. 7 EXAMPLE OF A SUITABLE TEST APPARATUS FOR PROJECTIONS AND SURFACE FRICTION (METHOD A)
+19
+
+IS 4151 : 2015
+
+20
+FIG. 8 EXAMPLE OF A SUITABLE TEST APPARATUS FOR PROJECTIONS AND SURFACE FRICTION (METHOD B)
+
+IS 4151 : 2015
+
+ANNEX F
+(Clauses 6.4.1 and 7.5)
+DYNAMIC TEST OF RETENTION SYSTEM
+F-1 PROCEDURE
+
+F-1.3 A guide and arrest device for a falling mass shall
+then be attached below the headform. The mass of the
+headform so equipped in this way shall be 15 Â± 0.5 kg;
+this produces the preloading on the retention system
+for determining the position from which the vertical
+displacement of the point of application of the force
+shall be measured.
+
+F-1.1 The helmet shall be positioned as prescribed in
+Annex B.
+F-1.2 In this position the helmet shall be held by the
+shell (see Fig. 9) at a point traversed by the vertical
+axis passing through the centre of gravity of the
+headform. The headform is equipped with a loadbearing device aligned with the vertical axis passing
+through the centre of gravity of the headform and with
+a device to measure the vertical displacement of the
+point of application of the force.
+
+F-1.4 The falling mass of 10 kg Â± 0.1 kg shall then be
+released and shall drop in a guided free fall from a
+height of 750 mm Â± 5 mm.
+
+FIG. 9 DYNAMIC TEST OF RETENTION SYSTEM
+
+21
+
+IS 4151 : 2015
+
+ANNEX G
+(Clause 7.6)
+AUDIBILITY TEST
+G-1 APPARATUS
+
+atmospheric conditions and the back-ground noise
+level shall be such that the reading indicated on the
+sound level meter by the noise is at least 10 dB of below
+that of the horn sound level.
+
+G-1.1 Measuring Apparatus
+Measuring apparatus shall consist of a headform and
+sound level meter in accordance with IS 15575. The
+microphone of sound level meter shall be fitted at a
+place corresponding to the right or left human earÂ’s
+location.
+
+This test shall be carried out in an open space in which
+there is no obstacle within a radius of 12 m and no
+acoustical focusing affects or nearby parallel walls.
+G-2.2 The horn shall be mounted 1.2 m above the
+ground and shall be fixed in a rigid manner on a base
+whose mass shall be at least 10 times that of the horn
+and not less than 15 kg and shall be adjustable sideways
+and up and down. The sound waves are emitted from
+the horn by using suitable 12 V dc power supply and
+are directed towards the rear of the headform at the
+distance of 2 m. The two readings are taken with and
+without helmet. The difference shall be recorded to
+the nearest dB.
+
+G-1.2 Sound Source
+The sound surface shall be a horn conforming to Type
+2A of IS 1884 [which has sound pressure level range
+of 90 to 115 dB(A)]. The sound source shall be located
+so that sound is incident from back of the headform.
+G-2 PROCEDURE
+G-2.1 This test shall be carried out under the prevailing
+
+22
+
+IS 4151 : 2015
+
+ANNEX H
+(Clause 7.7)
+RETENTION (DETACHING) TEST
+H-1 PROCEDURE
+
+total mass being 3 kg Â± 0.1 kg) is hooked on to the
+rear part of the shell in the median vertical plane of the
+helmet, as shown in Fig. 10.
+
+H-1.1 The helmet previously conditioned at ambient
+temperature and hygrometry, shall be placed on and
+secured to the appropriate headform, selected from
+those listed in Fig. 2 in accordance with the
+requirements of C-3.2.1.
+
+H-1.3 The falling mass of 10 kg Â± 0.01 kg is then
+released and dropped in a guided free fall from a height
+of 0.50 m Â± 0.01 m. The guiding device shall be such
+as to ensure that the impact speed is not less than 95
+percent of the theoretical speed.
+
+H-1.2 A device to guide and release a falling mass (the
+
+All dimensions in millimetres.
+
+FIG. 10 RETENTION (DETACHING) TEST APPARATUS
+23
+
+IS 4151 : 2015
+
+ANNEX J
+(Clause 7.8)
+MICRO-SLIP TEST OF THE CHIN STRAP
+J-1 PROCEDURE
+
+roller and drape the strap over the roller. Attach a weight
+to the lower end of the strap so that when the weight is
+lifted by the strap it imposes a tensile force of 20 Â± 1 N.
+Adjust the apparatus so that when the reciprocating
+clamp is at the centre of its motion the weight is just
+resting on the base with the strap barely in tension and
+the strap buckle is between the clamp and roller and
+will not touch the roller during reciprocation.
+
+J-1.1 The test rig consists of a flat horizontal robust
+base, a weight for applying a load, a freely rotatable
+horizontal roller of diameter not less than 20 mm, and
+in the same horizontal plane as the top of the roller a
+clamp capable of reciprocating horizontal motion at
+right angles to the axis of the roller with a total
+amplitude of 50 Â± 5 mm at a frequency between 0.5
+Hz and 2 Hz. A typical test machine is shown in Fig. 11.
+
+J-1.3 Operate the reciprocating clamp for 20 cycles.
+Note the position of the components on the strap.
+Operate the reciprocating clamp for 500 cycles then
+record the distance through which the components have
+slipped along the strap.
+
+J-1.2 Take a sample of the strap at least 300 mm long,
+including the tensioning and adjusting device and any
+additional strap fastening. Fix the upper end of the strap
+to the reciprocating clamp level with the top of the
+
+FIG. 11 APPARATUS FOR TESTING S LIPPAGE OF THE C HIN STRAP
+24
+
+IS 4151 : 2015
+
+ANNEX K
+(Clauses 7.9)
+TEST FOR RESISTANCE TO ABRASION OF THE CHIN STRAP
+20 Â± 1 N. Mount or otherwise steady the fitting in such
+a position that movement of the oscillating clamp slides
+the strap through the fitting, in a manner simulating
+slippage of the fitting on the strap when the helmet is
+on the head.
+
+K-1 PROCEDURE
+K-1.1 The test rig as mentioned is similar to that
+described in J-1.1 except that the amplitude is 100 mm
+Â± 10 mm and the strap passes over a representative
+surface of the associated adjuster or other strap fitting
+through an appropriate angle. The typical test machine
+is shown in Fig. 12.
+
+K-1.3 Oscillate the clamp for a total of 5 000 cycles at
+a frequency between 0.5 and 2 Hz.
+
+K-1.2 Select an arrangement of the apparatus
+appropriate for the particular design of both the strap
+and the fitting likely to cause abrasion. Grip one end
+of the strap in the oscillating clamp, arrange the strap
+to be threaded through the fitting as designed and hang
+a weight on the end to tension the strap with a force of
+
+K-1.4 Mount the abraded strap in a tensile testing
+machine using clamps which avoid local breakage of
+the strap, and so that there is a length of 150 Â± 15 mm
+of strap, including the abraded portion, between the
+clamps. Operate the machine to stretch the strap at a
+speed of 100mm Â± 20 mm per min.
+
+F IG. 12 APPARATUS FOR TESTING A BRASION OF THE C HIN STRAP
+25
+
+IS 4151 : 2015
+
+ANNEX M
+[Clause C-2.5.2 (a)]
+REFERENCE HEADFORMS
+(Above Reference Plane)
+
+All dimensions in millimetres.
+
+FIG. 13 REFERENCE HEADFORMS
+(SHAPE, DIMENSIONS ABOVE REFERENCE PLANE )
+
+Headform A
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+88.1
+
+86.4
+
+83.1
+
+75.4
+
+69.9
+
+66.8
+
+66.5
+
+69.3
+
+73.4
+
+78.8
+
+84.1
+
+87.6
+
+88.1
+
+12.7
+
+86.9
+
+85.3
+
+83.1
+
+75.4
+
+69.9
+
+66.8
+
+66.5
+
+69.3
+
+73.4
+
+78.8
+
+84.1
+
+87.6
+
+88.1
+
+25.4
+
+84.6
+
+83.6
+
+82.3
+
+75.4
+
+69.9
+
+66.8
+
+66.5
+
+69.3
+
+73.4
+
+78.8
+
+84.1
+
+86.1
+
+86.1
+
+38.1
+
+80.8
+
+80.3
+
+79.5
+
+72.9
+
+67.6
+
+65.3
+
+65.0
+
+67.6
+
+71.6
+
+76.5
+
+81.3
+
+82.8
+
+82.8
+
+50.8
+
+74.7
+
+74.4
+
+74.0
+
+68.1
+
+63.2
+
+61.0
+
+60.7
+
+63.2
+
+66.8
+
+71.6
+
+73.7
+
+76.7
+
+76.7
+
+63.5
+
+64.8
+
+64.8
+
+64.8
+
+59.9
+
+55.6
+
+53.3
+
+53.1
+
+55.4
+
+59.2
+
+63.5
+
+67.6
+
+67.6
+
+67.6
+
+76.2
+
+45.7
+
+45.7
+
+45.5
+
+43.4
+
+41.4
+
+40.4
+
+40.4
+
+42.4
+
+46.2
+
+50.5
+
+54.6
+
+54.6
+
+54.6
+
+82.6
+
+31.0
+
+31.2
+
+31.2
+
+31.0
+
+30.0
+
+29.7
+
+30.2
+
+32.5
+
+36.1
+
+40.4
+
+43.9
+
+44.5
+
+44.5
+
+Dimension: Y : 89.7 mm â€“ Head circumference : 500 mm
+
+26
+
+IS 4151 : 2015
+Headform C
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+91.2
+
+89.7
+
+86.1
+
+78.7
+
+72.6
+
+69.9
+
+69.6
+
+72.4
+
+76.7
+
+82.0
+
+87.4
+
+90.4
+
+91.2
+
+12.7
+
+89.9
+
+88.6
+
+86.1
+
+78.7
+
+72.6
+
+69.9
+
+69.6
+
+72.4
+
+76.7
+
+82.0
+
+87.4
+
+90.4
+
+91.2
+
+25.4
+
+87.6
+
+87.1
+
+85.3
+
+78.7
+
+72.6
+
+69.9
+
+69.6
+
+72.4
+
+76.7
+
+82.0
+
+87.4
+
+89.2
+
+89.9
+
+38.1
+
+84.6
+
+83.8
+
+82.3
+
+76.5
+
+70.6
+
+68.1
+
+68.1
+
+70.6
+
+74.7
+
+79.8
+
+84.3
+
+85.6
+
+86.4
+
+50.8
+
+78.5
+
+78.2
+
+77.5
+
+72.4
+
+66.5
+
+64.3
+
+64.3
+
+66.5
+
+70.4
+
+75.4
+
+79.5
+
+80.3
+
+80.8
+
+63.5
+
+69.3
+
+69.1
+
+69.1
+
+64.5
+
+59.4
+
+57.2
+
+57.4
+
+59.7
+
+63.5
+
+68.3
+
+71.9
+
+71.9
+
+71.9
+
+76.2
+
+52.3
+
+52.3
+
+52.3
+
+49.3
+
+46.2
+
+45.2
+
+45.7
+
+48.0
+
+51.6
+
+56.1
+
+59.4
+
+59.7
+
+59.9
+
+82.6
+
+39.9
+
+39.9
+
+39.9
+
+38.1
+
+37.1
+
+36.6
+
+36.8
+
+38.6
+
+41.9
+
+46.2
+
+50.5
+
+51.1
+
+51.3
+
+88.9
+
+20.6
+
+20.6
+
+20.6
+
+21.3
+
+22.1
+
+22.9
+
+23.9
+
+25.4
+
+28.2
+
+31.8
+
+34.3
+
+34.5
+
+34.5
+
+Dimension: Y : 92.7 mm â€“ Head circumference : 520 mm
+Headform E
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+(Dimensions in millimetres.)
+
+45Â°
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+94.5
+
+93.0
+
+89.7
+
+82.0
+
+76.2
+
+73.2
+
+72.9
+
+75.7
+
+79.8
+
+84.8
+
+90.7
+
+93.7
+
+94.5
+
+12.7
+
+93.2
+
+91.9
+
+89.7
+
+82.0
+
+76.2
+
+73.2
+
+72.9
+
+75.7
+
+79.8
+
+84.8
+
+90.7
+
+93.7
+
+94.5
+
+25.4
+
+91.2
+
+90.7
+
+88.9
+
+82.0
+
+76.2
+
+73.2
+
+72.9
+
+75.7
+
+79.8
+
+84.8
+
+90.7
+
+92.7
+
+93.0
+
+38.1
+
+87.6
+
+87.9
+
+85.9
+
+80.0
+
+74.7
+
+71.6
+
+71.4
+
+74.2
+
+77.7
+
+82.6
+
+88.6
+
+89.2
+
+89.2
+
+50.8
+
+82.0
+
+82.3
+
+81.0
+
+75.4
+
+70.4
+
+67.8
+
+67.6
+
+70.4
+
+73.9
+
+79.0
+
+83.8
+
+84.3
+
+84.3
+
+63.5
+
+73.4
+
+73.7
+
+73.4
+
+68.6
+
+64.0
+
+61.5
+
+61.2
+
+63.5
+
+67.1
+
+71.9
+
+76.5
+
+76.5
+
+76.5
+
+76.2
+
+57.7
+
+57.9
+
+58.2
+
+55.9
+
+52.6
+
+50.5
+
+50.3
+
+52.1
+
+55.1
+
+59.7
+
+64.5
+
+64.8
+
+64.8
+
+82.6
+
+46.5
+
+46.5
+
+46.5
+
+45.2
+
+43.2
+
+42.4
+
+42.9
+
+44.4
+
+47.5
+
+52.3
+
+56.4
+
+56.9
+
+56.6
+
+88.9
+
+30.5
+
+30.5
+
+30.7
+
+31.0
+
+31.2
+
+31.2
+
+31.8
+
+33.8
+
+36.8
+
+40.4
+
+43.9
+
+44.2
+
+44.2
+
+Dimension: Y : 96 mm â€“ Head circumference : 540 mm
+
+Headform G
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+97.5
+
+95.8
+
+93.0
+
+85.1
+
+79.5
+
+76.2
+
+75.9
+
+78.5
+
+83.1
+
+88.4
+
+94.0
+
+97.0
+
+97.5
+
+12.7
+
+96.3
+
+95.3
+
+92.7
+
+85.1
+
+79.5
+
+76.2
+
+75.9
+
+78.5
+
+83.1
+
+88.4
+
+94.0
+
+97.0
+
+97.5
+
+25.4
+
+93.7
+
+92.7
+
+91.4
+
+85.1
+
+79.5
+
+76.2
+
+75.9
+
+78.5
+
+83.1
+
+88.4
+
+94.0
+
+95.8
+
+96.3
+
+38.1
+
+90.4
+
+89.7
+
+88.9
+
+83.3
+
+77.7
+
+75.2
+
+74.9
+
+77.0
+
+81.3
+
+86.6
+
+91.7
+
+92.7
+
+93.0
+
+50.8
+
+86.1
+
+85.6
+
+84.6
+
+79.0
+
+73.7
+
+71.1
+
+70.9
+
+73.2
+
+78.0
+
+82.8
+
+87.1
+
+87.9
+
+88.1
+
+63.5
+
+77.5
+
+77.2
+
+76.5
+
+72.1
+
+67.3
+
+64.5
+
+64.3
+
+66.5
+
+70.9
+
+75.9
+
+79.0
+
+79.0
+
+80.0
+
+76.2
+
+63.8
+
+63.8
+
+64.0
+
+61.2
+
+57.4
+
+54.9
+
+54.9
+
+56.9
+
+61.5
+
+66.5
+
+68.8
+
+69.1
+
+69.1
+
+88.9
+
+39.9
+
+39.6
+
+39.6
+
+39.1
+
+38.4
+
+37.8
+
+38.4
+
+40.4
+
+44.2
+
+49.8
+
+52.8
+
+53.1
+
+53.1
+
+95.3
+
+20.6
+
+20.6
+
+20.6
+
+21.3
+
+22.4
+
+23.4
+
+23.9
+
+25.4
+
+28.7
+
+33.6
+
+37.8
+
+39.1
+
+39.1
+
+Dimension: Y : 99.1 mm â€“ Head circumference : 560 mm
+Headform J
+
+(Dimensions in millimetres.)
+
+Height above
+reference line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+100.8
+
+98.8
+
+96.3
+
+88.1
+
+82.0
+
+79.5
+
+79.2
+
+82.0
+
+85.9
+
+91.7
+
+96.8
+
+100.1
+
+100.8
+
+12.7
+
+99.6
+
+98.0
+
+95.8
+
+88.1
+
+82.0
+
+79.5
+
+79.2
+
+82.0
+
+85.9
+
+91.7
+
+96.8
+
+100.1
+
+100.8
+
+25.4
+
+96.8
+
+95.8
+
+94.5
+
+88.1
+
+82.0
+
+79.5
+
+79.2
+
+82.0
+
+85.9
+
+91.7
+
+96.5
+
+98.3
+
+98.8
+
+38.1
+
+93.7
+
+92.7
+
+91.9
+
+86.1
+
+80.0
+
+77.2
+
+77.7
+
+80.0
+
+83.8
+
+89.4
+
+94.5
+
+95.8
+
+96.0
+
+50.8
+
+89.2
+
+88.6
+
+87.9
+
+82.0
+
+76.2
+
+73.9
+
+74.4
+
+77.0
+
+80.5
+
+85.9
+
+90.4
+
+90.9
+
+90.9
+
+63.5
+
+81.5
+
+80.8
+
+81.0
+
+75.9
+
+70.6
+
+68.1
+
+68.3
+
+71.1
+
+71.4
+
+79.5
+
+83.8
+
+84.1
+
+84.1
+
+76.2
+
+69.3
+
+69.1
+
+69.3
+
+65.3
+
+61.2
+
+58.9
+
+59.2
+
+61.7
+
+65.0
+
+69.3
+
+73.2
+
+73.4
+
+73.4
+
+88.9
+
+47.2
+
+47.5
+
+48.0
+
+46.2
+
+44.4
+
+43.7
+
+44.2
+
+46.2
+
+50.0
+
+54.1
+
+58.2
+
+58.4
+
+58.4
+
+95.3
+
+32.8
+
+32.8
+
+33.3
+
+32.5
+
+32.0
+
+32.3
+
+33.0
+
+35.1
+
+38.1
+
+42.2
+
+46.5
+
+47.2
+
+47.2
+
+Dimension: Y : 102.4 mm â€“ Head circumference : 570 mm
+
+27
+
+IS 4151 : 2015
+Headform K
+
+(Dimensions in millimetres.)
+
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+102.4
+
+101.1
+
+97.0
+
+89.7
+
+84.1
+
+81.3
+
+80.8
+
+83.3
+
+87.9
+
+92.7
+
+98.3
+
+101.6
+
+102.4
+
+12.7
+
+101.1
+
+100.1
+
+97.0
+
+89.7
+
+84.1
+
+81.3
+
+80.8
+
+83.3
+
+87.9
+
+92.7
+
+98.3
+
+101.6
+
+102.4
+
+25.4
+
+98.8
+
+98.3
+
+96.3
+
+89.7
+
+84.1
+
+81.3
+
+80.8
+
+83.3
+
+87.9
+
+92.7
+
+98.3
+
+99.8
+
+100.6
+
+38.1
+
+95.5
+
+95.2
+
+93.7
+
+87.4
+
+82.0
+
+79.5
+
+79.5
+
+81.5
+
+85.9
+
+90.4
+
+95.5
+
+97.0
+
+97.7
+
+50.8
+
+90.9
+
+90.4
+
+89.7
+
+83.6
+
+78.5
+
+76.2
+
+76.2
+
+78.5
+
+83.1
+
+87.4
+
+91.9
+
+92.5
+
+93.2
+
+63.5
+
+83.1
+
+82.8
+
+82.0
+
+77.2
+
+72.1
+
+69.9
+
+70.4
+
+72.4
+
+76.7
+
+80.8
+
+84.6
+
+85.1
+
+85.6
+
+76.2
+
+71.1
+
+71.1
+
+71.4
+
+68.1
+
+63.8
+
+61.2
+
+61.2
+
+63.0
+
+67.1
+
+71.6
+
+74.9
+
+75.2
+
+75.2
+
+88.9
+
+51.8
+
+51.8
+
+51.8
+
+50.8
+
+48.5
+
+46.7
+
+47.2
+
+49.3
+
+52.1
+
+56.9
+
+60.7
+
+60.7
+
+60.7
+
+95.3
+
+37.6
+
+37.3
+
+37.3
+
+37.3
+
+36.8
+
+36.6
+
+37.1
+
+38.9
+
+42.2
+
+47.0
+
+51.1
+
+51.8
+
+51.3
+
+101.6
+
+18.3
+
+17.8
+
+17.8
+
+18.0
+
+18.5
+
+19.3
+
+20.1
+
+21.8
+
+24.9
+
+29.0
+
+33.8
+
+36.1
+
+36.6
+
+Dimension: Y : 102.4 mm â€“ Head circumference : 570 mm
+
+Headform M
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+105.7
+
+103.9
+
+100.6
+
+92.7
+
+86.9
+
+84.1
+
+83.8
+
+86.4
+
+90.7
+
+96.0
+
+102.1
+
+105.7
+
+105.7
+
+12.7
+
+104.4
+
+103.4
+
+100.3
+
+92.7
+
+86.9
+
+84.1
+
+83.8
+
+86.4
+
+90.7
+
+96.0
+
+102.1
+
+105.7
+
+105.7
+
+25.4
+
+102.1
+
+101.6
+
+99.8
+
+92.7
+
+86.9
+
+84.1
+
+83.8
+
+86.4
+
+90.7
+
+96.0
+
+102.1
+
+104.4
+
+104.4
+
+38.1
+
+99.3
+
+98.8
+
+97.8
+
+90.9
+
+85.3
+
+82.6
+
+82.3
+
+84.6
+
+88.9
+
+94.0
+
+99.8
+
+100.8
+
+101.1
+
+50.8
+
+95.0
+
+94.7
+
+93.5
+
+86.9
+
+81.3
+
+79.0
+
+78.7
+
+81.0
+
+85.3
+
+90.4
+
+96.0
+
+96.5
+
+96.3
+
+63.5
+
+87.1
+
+87.1
+
+86.9
+
+80.8
+
+75.4
+
+73.2
+
+73.2
+
+75.4
+
+79.5
+
+84.8
+
+89.4
+
+89.7
+
+89.4
+
+76.2
+
+75.9
+
+76.2
+
+76.2
+
+71.6
+
+67.1
+
+64.8
+
+64.8
+
+66.5
+
+70.6
+
+75.4
+
+80.0
+
+80.0
+
+79.3
+
+88.9
+
+58.2
+
+58.2
+
+58.2
+
+56.6
+
+54.6
+
+52.3
+
+52.3
+
+53.8
+
+56.9
+
+61.7
+
+66.8
+
+67.1
+
+66.8
+
+95.3
+
+45.5
+
+45.7
+
+46.0
+
+46.0
+
+44.5
+
+43.4
+
+43.2
+
+44.5
+
+47.2
+
+52.1
+
+57.7
+
+58.2
+
+57.9
+
+101.6
+
+26.4
+
+26.2
+
+26.7
+
+27.7
+
+28.7
+
+29.5
+
+30.0
+
+31.2
+
+34.0
+
+38.6
+
+42.7
+
+43.2
+
+42.7
+
+Dimension: Y : 107.2 mm â€“ Head circumference : 600 mm
+
+Headform O
+Height Above
+Reference Line
+
+0Â°
+Front
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+108.7
+
+107.4
+
+103.4
+
+95.8
+
+90.4
+
+87.6
+
+87.1
+
+90.2
+
+94.2
+
+99.8
+
+105.4
+
+108.0
+
+108.7
+
+12.7
+
+107.7
+
+106.4
+
+103.4
+
+95.8
+
+90.4
+
+87.6
+
+87.1
+
+90.2
+
+94.2
+
+99.8
+
+105.4
+
+108.0
+
+108.7
+
+25.4
+
+105.2
+
+104.4
+
+102.9
+
+95.8
+
+90.4
+
+87.6
+
+87.1
+
+90.2
+
+94.2
+
+99.8
+
+105.4
+
+106.7
+
+106.9
+
+38.1
+
+102.4
+
+102.1
+
+101.1
+
+94.2
+
+88.9
+
+86.1
+
+85.9
+
+88.9
+
+93.0
+
+98.6
+
+103.4
+
+104.1
+
+104.1
+
+50.8
+
+97.8
+
+97.5
+
+96.5
+
+90.2
+
+85.1
+
+82.3
+
+82.6
+
+85.3
+
+89.9
+
+94.7
+
+99.6
+
+100.3
+
+100.3
+
+63.5
+
+91.2
+
+91.2
+
+90.4
+
+84.3
+
+79.2
+
+76.7
+
+77.0
+
+79.8
+
+83.8
+
+88.4
+
+93.0
+
+93.2
+
+93.2
+
+76.2
+
+81.0
+
+81.3
+
+80.8
+
+76.2
+
+71.6
+
+69.3
+
+69.6
+
+71.9
+
+75.7
+
+80.5
+
+84.6
+
+84.6
+
+84.6
+
+88.9
+
+64.5
+
+64.5
+
+64.5
+
+61.5
+
+58.4
+
+57.2
+
+57.7
+
+60.2
+
+63.5
+
+68.1
+
+71.9
+
+71.4
+
+71.9
+
+95.3
+
+54.1
+
+53.8
+
+54.1
+
+52.6
+
+50.3
+
+49.0
+
+49.5
+
+51.6
+
+55.4
+
+60.5
+
+64.3
+
+64.0
+
+64.0
+
+101.6
+
+37.6
+
+37.6
+
+38.1
+
+38.4
+
+38.1
+
+37.8
+
+38.4
+
+40.4
+
+43.4
+
+48.0
+
+51.3
+
+51.3
+
+51.1
+
+Dimension: Y : 110.2 mm â€“ Head circumference : 620 mm
+
+28
+
+IS 4151 : 2015
+
+ANNEX N
+[Clause C-2.5.2 (b) and C-2.5.3]
+REFERENCE HEADFORMS
+(Below Reference Plane)
+
+FIG. 14 REFERENCE HEADFORMS (Continued)
+(SHAPE, DIMENSIONS BELOW REFERENCE PLANE)
+
+29
+
+IS 4151 : 2015
+
+FIG. 14 REFERENCE HEADFORMS
+(SHAPE , DIMENSIONS BELOW REFERENCE PLANE )
+Headform A
+
+(Dimensions in millimetres.)
+
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+88.0
+
+86.5
+
+83.0
+
+75.5
+
+70.0
+
+67.0
+
+66.5
+
+69.5
+
+73.5
+
+78.5
+
+84.0
+
+87.0
+
+88.0
+
+â€“11.1
+
+88.0
+
+86.5
+
+82.5
+
+74.5
+
+68.5
+
+66.0
+
+66.0
+
+68.5
+
+72.0
+
+77.0
+
+81.5
+
+84.5
+
+85.0
+
+â€“19.9
+
+88.0
+
+88.0
+
+82.5
+
+74.0
+
+66.5
+
+63.0
+
+61.5
+
+64.5
+
+67.5
+
+72.5
+
+77.0
+
+80.0
+
+80.5
+
+â€“30.6
+
+88.0
+
+89.5
+
+81.0
+
+71.5
+
+65.0
+
+62.0
+
+56.0
+
+58.0
+
+61.5
+
+66.5
+
+71.0
+
+73.5
+
+74.0
+
+â€“39.4
+
+88.0
+
+89.5
+
+79.0
+
+69.0
+
+63.0
+
+60.0
+
+54.0
+
+55.0
+
+58.0
+
+61.5
+
+65.0
+
+67.5
+
+67.0
+
+â€“52.5
+â€“65.6
+
+88.0
+88.0
+
+89.5
+89.5
+
+77.0
+75.5
+
+67.0
+65.0
+
+60.5
+58.5
+
+54.0
+52.5
+
+51.5
+50.5
+
+52.0
+51.0
+
+53.5
+51.5
+
+56.5
+52.5
+
+59.0
+53.0
+
+60.0
+54.0
+
+58.5
+54.5
+
+â€“74.4
+
+88.0
+
+89.5
+
+73.5
+
+62.5
+
+58.0
+
+51.0
+
+50.5
+
+51.0
+
+51.5
+
+52.5
+
+53.0
+
+54.0
+
+54.5
+
+â€“78.8
+
+88.0
+
+89.5
+
+71.5
+
+60.5
+
+49.5
+
+50.0
+
+50.5
+
+51.0
+
+51.5
+
+52.5
+
+53.0
+
+54.0
+
+54.5
+
+â€“84.4
+
+88.0
+
+89.5
+
+69.5
+
+47.5
+
+49.5
+
+50.0
+
+50.5
+
+51.0
+
+51.5
+
+52.5
+
+53.0
+
+54.0
+
+54.5
+
+â€“92.8
+
+88.0
+
+92.0
+
+47.5
+
+47.5
+
+49.5
+
+50.0
+
+50.5
+
+51.0
+
+51.5
+
+52.5
+
+53.0
+
+54.0
+
+54.5
+
+â€“119.0
+
+47.0
+
+47.0
+
+47.5
+
+47.5
+
+49.5
+
+50.0
+
+50.5
+
+51.0
+
+51.5
+
+52.5
+
+53.0
+
+54.0
+
+54.5
+
+Dimension l : 11.1 mm â€“ Head circumference : 500 mm
+
+30
+
+IS 4151 : 2015
+Headform C
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+60Â°
+
+(Dimensions in millimetres.)
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+91.5
+
+89.5
+
+86.0
+
+79.0
+
+72.5
+
+70.0
+
+69.5
+
+72.5
+
+77.0
+
+82.0
+
+87.5
+
+90.5
+
+91.5
+
+â€“11.5
+
+91.5
+
+89.5
+
+85.5
+
+77.0
+
+71.0
+
+68.5
+
+68.5
+
+71.0
+
+74.5
+
+80.0
+
+84.5
+
+87.5
+
+88.0
+
+â€“20.6
+
+91.5
+
+91.0
+
+85.5
+
+76.5
+
+69.0
+
+65.5
+
+64.0
+
+66.5
+
+70.0
+
+75.5
+
+80.0
+
+83.0
+
+83.5
+
+â€“31.8
+
+91.5
+
+92.5
+
+84.0
+
+74.0
+
+67.0
+
+64.5
+
+58.0
+
+60.5
+
+64.0
+
+69.0
+
+73.5
+
+76.0
+
+76.5
+
+â€“40.8
+
+91.5
+
+92.5
+
+81.5
+
+71.5
+
+65.5
+
+62.0
+
+56.0
+
+57.0
+
+60.0
+
+64.0
+
+67.5
+
+70.0
+
+69.5
+
+â€“54.4
+
+91.5
+
+92.5
+
+80.0
+
+69.5
+
+62.5
+
+56.0
+
+53.5
+
+54.0
+
+55.5
+
+58.5
+
+61.0
+
+62.0
+
+61.0
+
+â€“68.0
+
+91.5
+
+92.5
+
+78.0
+
+67.0
+
+61.0
+
+54.5
+
+52.0
+
+53.0
+
+53.5
+
+54.5
+
+55.0
+
+56.0
+
+56.5
+
+â€“77.1
+
+91.5
+
+92.5
+
+76.0
+
+65.0
+
+60.0
+
+52.5
+
+52.0
+
+53.0
+
+53.5
+
+54.5
+
+55.0
+
+56.0
+
+56.5
+
+â€“81.7
+
+91.5
+
+92.5
+
+74.0
+
+62.5
+
+51.0
+
+51.5
+
+52.0
+
+53.0
+
+53.5
+
+54.5
+
+55.0
+
+56.0
+
+56.5
+
+â€“87.6
+
+91.5
+
+92.5
+
+72.0
+
+49.5
+
+51.0
+
+51.5
+
+52.0
+
+53.0
+
+53.5
+
+54.5
+
+55.0
+
+56.0
+
+56.5
+
+â€“96.2
+
+91.5
+
+95.5
+
+49.0
+
+49.5
+
+51.0
+
+51.5
+
+52.0
+
+53.0
+
+53.5
+
+54.5
+
+55.0
+
+56.0
+
+56.5
+
+â€“123.4
+
+48.5
+
+48.5
+
+49.0
+
+49.5
+
+51.0
+
+51.5
+
+52.0
+
+53.0
+
+53.5
+
+54.5
+
+55.0
+
+56.0
+
+56.5
+
+Dimension l : 11.5 mm â€“ Head circumference : 520 mm
+Headform E
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+94.5
+
+93.0
+
+90.0
+
+82.0
+
+76.5
+
+73.5
+
+73.0
+
+76.0
+
+80.0
+
+85.0
+
+91.0
+
+94.0
+
+94.5
+
+â€“11.9
+
+94.5
+
+93.0
+
+88.5
+
+79.5
+
+73.0
+
+70.5
+
+70.5
+
+73.0
+
+77.0
+
+82.5
+
+87.0
+
+90.5
+
+91.0
+
+â€“21.3
+
+94.5
+
+94.0
+
+88.5
+
+79.0
+
+71.0
+
+67.5
+
+66.0
+
+69.0
+
+72.0
+
+77.5
+
+82.5
+
+85.5
+
+86.0
+
+â€“32.8
+
+94.5
+
+95.5
+
+86.5
+
+76.5
+
+69.5
+
+66.5
+
+60.0
+
+62.5
+
+66.0
+
+71.0
+
+76.0
+
+78.5
+
+79.0
+
+â€“42.1
+
+94.5
+
+95.5
+
+84.5
+
+74.0
+
+67.5
+
+64.0
+
+57.5
+
+59.0
+
+62.0
+
+66.0
+
+70.0
+
+72.0
+
+71.5
+
+â€“56.2
+
+94.5
+
+95.5
+
+82.5
+
+71.5
+
+64.5
+
+57.5
+
+55.5
+
+55.5
+
+57.0
+
+60.5
+
+63.0
+
+64.0
+
+63.0
+
+â€“70.2
+
+94.5
+
+95.5
+
+80.5
+
+69.5
+
+62.5
+
+56.0
+
+54.0
+
+55.0
+
+55.5
+
+56.0
+
+56.5
+
+57.5
+
+58.0
+
+â€“79.6
+
+94.5
+
+95.5
+
+78.5
+
+67.0
+
+62.0
+
+54.5
+
+54.0
+
+55.0
+
+55.5
+
+56.0
+
+56.5
+
+57.5
+
+58.0
+
+â€“84.3
+
+94.5
+
+95.5
+
+76.5
+
+64.5
+
+53.0
+
+53.5
+
+54.0
+
+55.0
+
+55.5
+
+56.0
+
+56.5
+
+57.5
+
+58.0
+
+â€“90.4
+
+94.5
+
+95.5
+
+74.5
+
+51.0
+
+53.0
+
+53.5
+
+54.0
+
+55.0
+
+55.5
+
+56.0
+
+56.5
+
+57.5
+
+58.0
+
+â€“99.3
+
+94.5
+
+98.5
+
+50.5
+
+51.0
+
+53.0
+
+53.5
+
+54.0
+
+55.0
+
+55.5
+
+56.0
+
+56.5
+
+57.5
+
+58.0
+
+â€“127.4
+
+50.0
+
+50.0
+
+50.5
+
+51.0
+
+53.0
+
+53.5
+
+54.0
+
+55.0
+
+55.5
+
+56.0
+
+56.5
+
+57.5
+
+58.0
+
+Dimension l : 11.9 mm â€“ Head circumference : 540 mm
+
+Headform G
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+97.5
+
+95.5
+
+93.0
+
+85.5
+
+79.5
+
+76.0
+
+76.0
+
+78,5
+
+83.0
+
+88.5
+
+94.0
+
+97.0
+
+97.5
+
+â€“12.3
+
+97.5
+
+95.5
+
+91.5
+
+82.0
+
+75.5
+
+73.0
+
+73.0
+
+75.5
+
+79.0
+
+85.0
+
+90.0
+
+93.0
+
+93.5
+
+â€“21.9
+
+97.5
+
+97.0
+
+91.5
+
+81.5
+
+73.5
+
+69.5
+
+68.0
+
+71.0
+
+74.5
+
+80.0
+
+85.0
+
+88.5
+
+89.0
+
+â€“33.8
+
+97.5
+
+98.5
+
+89.5
+
+78.5
+
+71.5
+
+68.5
+
+62.0
+
+64.0
+
+68.0
+
+73.5
+
+78.0
+
+81.0
+
+81.5
+
+â€“43.5
+
+97.5
+
+98.5
+
+87.0
+
+76.5
+
+69.5
+
+66.0
+
+59.5
+
+61.0
+
+63.5
+
+68.0
+
+72.0
+
+74.5
+
+74.0
+
+â€“58.0
+
+97.5
+
+98.5
+
+85.0
+
+74.0
+
+66.5
+
+59.5
+
+57.0
+
+57.5
+
+59.0
+
+62.5
+
+65.0
+
+66.0
+
+64.5
+
+â€“72.4
+
+97.5
+
+98.5
+
+83.0
+
+71.5
+
+64.5
+
+58.0
+
+55.5
+
+56.5
+
+57.0
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+â€“82.1
+
+97.5
+
+98.5
+
+81.0
+
+69.0
+
+63.5
+
+56.0
+
+55.5
+
+56.5
+
+57.0
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+â€“86.9
+
+97.5
+
+98.5
+
+78.5
+
+66.5
+
+54.5
+
+55.0
+
+55.5
+
+56.5
+
+57.0
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+â€“93.2
+
+97.5
+
+98.5
+
+77.0
+
+52.5
+
+54.5
+
+55.0
+
+55.5
+
+56.5
+
+57.0
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+â€“102.4
+
+97.5
+
+101.5
+
+52.0
+
+52.5
+
+54.5
+
+55.0
+
+55.5
+
+56.5
+
+57.0
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+â€“131.4
+
+51.5
+
+51.5
+
+52.0
+
+52.5
+
+54.5
+
+55.0
+
+55.5
+
+56.5
+
+57.0
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+Dimension l : 12.3 mm â€“ Head circumference : 560 mm
+
+31
+
+IS 4151 : 2015
+Headform J
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+101.0
+
+0
+
+101.0
+
+99.5
+
+95.5
+
+88.5
+
+82.5
+
+79.5
+
+79.5
+
+82.0
+
+86.0
+
+92.0
+
+97.0
+
+100.5
+
+â€“12.7
+
+101.0
+
+99.5
+
+94.5
+
+85.0
+
+78.0
+
+75.5
+
+75.5
+
+78.0
+
+82.0
+
+88.0
+
+93.0
+
+96.5
+
+97.0
+
+â€“22.7
+
+101.0
+
+100.5
+
+94.5
+
+84.5
+
+76.0
+
+72.0
+
+70.5
+
+73.5
+
+77.0
+
+83.0
+
+88.0
+
+91.5
+
+92.0
+
+â€“35.0
+
+101.0
+
+102.0
+
+92.5
+
+81.5
+
+74.0
+
+71.0
+
+64.0
+
+66.5
+
+70.5
+
+76.0
+
+81.0
+
+84.0
+
+84.5
+
+â€“45.0
+
+101.0
+
+102.0
+
+90.0
+
+79.0
+
+72.0
+
+68.5
+
+61.5
+
+63.0
+
+66.0
+
+70.5
+
+74.5
+
+77.0
+
+76.5
+
+â€“60.0
+
+101.0
+
+102.0
+
+88.0
+
+76.5
+
+69.0
+
+61.5
+
+59.0
+
+59.5
+
+61.0
+
+64.5
+
+67.5
+
+68.5
+
+67.0
+
+â€“75.0
+
+101.0
+
+102.0
+
+86.0
+
+74.0
+
+67.0
+
+60.0
+
+57.5
+
+58.5
+
+59.0
+
+60.0
+
+60.5
+
+61.5
+
+62.0
+
+â€“85.0
+
+101.0
+
+102.0
+
+84.0
+
+71.5
+
+66.0
+
+58.0
+
+57.5
+
+58.5
+
+59.0
+
+60.0
+
+60.5
+
+61.5
+
+62.0
+
+â€“90.0
+
+101.0
+
+102.0
+
+81.5
+
+69.0
+
+56.5
+
+57.0
+
+57.5
+
+58.5
+
+59.0
+
+60.0
+
+60.5
+
+61.5
+
+62.0
+
+â€“96.5
+
+101.0
+
+102.0
+
+79.5
+
+54.5
+
+56.5
+
+57.0
+
+57.5
+
+58.5
+
+59.0
+
+60.0
+
+60.5
+
+61.5
+
+62.0
+
+â€“106.0
+
+101.0
+
+105.0
+
+54.0
+
+54.5
+
+56.5
+
+57.0
+
+57.5
+
+58.5
+
+59.0
+
+60.0
+
+60.5
+
+61.5
+
+62.0
+
+â€“136.0
+
+53.5
+
+53.5
+
+54.0
+
+54.5
+
+56.5
+
+57.0
+
+57.5
+
+58.5
+
+59.0
+
+60.0
+
+60.5
+
+61.5
+
+62.0
+
+Dimension l : 12.7 mm â€“ Head circumference : 570 mm
+Headform K
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+102.5
+
+101.0
+
+97.0
+
+90.0
+
+84.0
+
+81.5
+
+81.0
+
+83.5
+
+88.0
+
+93.0
+
+98.5
+
+101.5
+
+102.5
+
+â€“12.9
+
+102.5
+
+101.0
+
+96.0
+
+86.0
+
+79.0
+
+76.5
+
+76.5
+
+79.0
+
+83.0
+
+89.5
+
+94.5
+
+98.0
+
+98.5
+
+â€“23.0
+
+102.5
+
+102.0
+
+96.0
+
+86.0
+
+77.0
+
+73.0
+
+71.5
+
+74.5
+
+78.0
+
+84.0
+
+89.5
+
+93.0
+
+93.5
+
+â€“35.5
+
+102.5
+
+103.5
+
+94.0
+
+82.5
+
+75.0
+
+72.0
+
+65.0
+
+67.5
+
+71.5
+
+77.0
+
+82.0
+
+85.0
+
+85.5
+
+â€“45.7
+
+102.5
+
+103.5
+
+91.5
+
+80.0
+
+73.0
+
+63.5
+
+62.5
+
+64.0
+
+67.0
+
+71.5
+
+75.5
+
+78.0
+
+77.5
+
+â€“60.9
+
+102.5
+
+103.5
+
+89.5
+
+77.5
+
+70.0
+
+62.5
+
+60.0
+
+60.5
+
+62.0
+
+65.5
+
+68.5
+
+69.5
+
+68.0
+
+â€“76.1
+
+102.5
+
+103.5
+
+87.5
+
+75.0
+
+68.0
+
+61.0
+
+58.5
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+â€“86.2
+
+102.5
+
+103.5
+
+85.5
+
+72.5
+
+67.0
+
+59.0
+
+58.5
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+â€“91.3
+
+102.5
+
+103.5
+
+82.5
+
+70.0
+
+57.5
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+â€“97.9
+
+102.5
+
+103.5
+
+80.5
+
+55.5
+
+57.5
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+â€“107.6
+
+102.5
+
+106.5
+
+54.5
+
+55.5
+
+57.5
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+â€“138.0
+
+54.5
+
+54.5
+
+54.5
+
+55.5
+
+57.5
+
+58.0
+
+58.5
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+Dimension l : 12.9 mm â€“ Head circumference : 580 mm
+
+Headform M
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+(Dimensions in millimetres.)
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+106.0
+
+104.0
+
+101.0
+
+93.5
+
+87.0
+
+84.5
+
+84.0
+
+86.5
+
+91.0
+
+96.0
+
+102.0
+
+106.0
+
+106.0
+
+â€“13.3
+â€“23.7
+
+106.0
+106.0
+
+104.0
+105.0
+
+98.5
+98.5
+
+88.5
+88.0
+
+81.5
+79.5
+
+79.0
+75.0
+
+79.0
+73.5
+
+81.5
+76.5
+
+85.5
+80.5
+
+92.0
+86.5
+
+97.0
+92.0
+
+100.5
+95.5
+
+101.5
+96.0
+
+â€“36.5
+
+106.0
+
+106.5
+
+96.5
+
+85.0
+
+77.5
+
+74.0
+
+67.0
+
+69.5
+
+73.5
+
+79.5
+
+84.5
+
+87.5
+
+88.0
+
+â€“47.0
+
+106.0
+
+106.5
+
+94.0
+
+82.5
+
+75.0
+
+71.5
+
+64.0
+
+66.0
+
+69.0
+
+73.5
+
+78.0
+
+80.5
+
+80.0
+
+â€“62.6
+
+106.0
+
+106.5
+
+92.0
+
+80.0
+
+72.0
+
+64.0
+
+61.5
+
+62.0
+
+63.5
+
+67.5
+
+70.5
+
+71.5
+
+70.0
+
+â€“78.3
+
+106.0
+
+106.5
+
+90.0
+
+77.0
+
+70.0
+
+62.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+64.0
+
+64.5
+
+â€“88.7
+
+106.0
+
+106.5
+
+87.5
+
+74.5
+
+69.0
+
+60.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+64.0
+
+64.5
+
+â€“94.0
+
+106.0
+
+106.5
+
+85.0
+
+72.0
+
+59.0
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+64.0
+
+64.5
+
+â€“100.7
+â€“110.7
+
+106.0
+106.0
+
+106.5
+109.5
+
+83.0
+56.5
+
+57.0
+57.0
+
+59.0
+59.0
+
+59.5
+59.5
+
+60.0
+60.0
+
+61.0
+61.0
+
+61.5
+61.5
+
+62.5
+62.5
+
+63.0
+63.0
+
+64.0
+64.0
+
+64.5
+64.5
+
+â€“142.0
+
+56.0
+
+56.0
+
+56.5
+
+57.0
+
+59.0
+
+59.5
+
+60.0
+
+61.0
+
+61.5
+
+62.5
+
+63.0
+
+64.0
+
+64.5
+
+Dimension l : 13.3 mm â€“ Head circumference : 600 mm
+
+32
+
+IS 4151 : 2015
+Headform O
+
+(Dimensions in millimetres.)
+
+Dimension
+Z'
+
+0Â°
+
+15Â°
+
+30Â°
+
+45Â°
+
+60Â°
+
+75Â°
+
+90Â°
+
+105Â°
+
+120Â°
+
+135Â°
+
+150Â°
+
+165Â°
+
+180Â°
+Rear
+
+0
+
+108.5
+
+107.5
+
+103.5
+
+96.0
+
+90.5
+
+87.5
+
+87.0
+
+90.0
+
+94.5
+
+100.0
+
+105.0
+
+108.0
+
+108.5
+
+â€“13.7
+
+108.5
+
+107.5
+
+101.5
+
+91.5
+
+84.0
+
+81.0
+
+81.0
+
+84.0
+
+88.0
+
+94.5
+
+100.0
+
+103.5
+
+104.5
+
+â€“24.4
+
+108.5
+
+108.0
+
+101.5
+
+91.0
+
+81.5
+
+77.5
+
+76.0
+
+79.0
+
+83.0
+
+89.0
+
+94.5
+
+98.5
+
+99.0
+
+â€“37.6
+
+108.5
+
+109.5
+
+99.5
+
+87.5
+
+79.5
+
+76.5
+
+63.0
+
+71.5
+
+76.0
+
+81.5
+
+87.0
+
+90.5
+
+91.0
+
+â€“48.4
+
+108.5
+
+109.5
+
+97.0
+
+85.0
+
+77.5
+
+73.5
+
+66.0
+
+67.5
+
+71.0
+
+76.0
+
+80.0
+
+83.5
+
+82.0
+
+â€“64.5
+
+108.5
+
+109.5
+
+94.5
+
+82.0
+
+74.0
+
+66.0
+
+63.5
+
+64.0
+
+65.5
+
+69.5
+
+72.5
+
+73.5
+
+72.0
+
+â€“80.6
+
+108.5
+
+109.5
+
+92.5
+
+79.5
+
+72.0
+
+64.5
+
+62.0
+
+63.0
+
+63.5
+
+64.5
+
+65.0
+
+66.0
+
+66.5
+
+â€“91.4
+
+108.5
+
+109.5
+
+90.5
+
+77.0
+
+71.0
+
+62.5
+
+62.0
+
+63.0
+
+63.5
+
+64.5
+
+65.0
+
+66.0
+
+66.5
+
+â€“96.8
+
+108.5
+
+109.5
+
+87.5
+
+74.0
+
+60.5
+
+61.0
+
+62.0
+
+63.0
+
+63.5
+
+64.5
+
+65.0
+
+66.0
+
+66.5
+
+â€“103.8
+
+108.5
+
+109.5
+
+85.5
+
+58.5
+
+60.5
+
+61.0
+
+62.0
+
+63.0
+
+63.5
+
+64.5
+
+65.0
+
+66.0
+
+66.5
+
+â€“114.0
+
+108.5
+
+113.0
+
+58.0
+
+58.5
+
+60.5
+
+61.0
+
+62.0
+
+63.0
+
+63.5
+
+64.5
+
+65.0
+
+66.0
+
+66.5
+
+â€“146.2
+
+57.5
+
+57.5
+
+58.0
+
+58.5
+
+60.5
+
+61.0
+
+62.0
+
+63.0
+
+63.5
+
+64.5
+
+65.0
+
+66.0
+
+66.5
+
+Dimension l : 13.7 mm â€“ Head circumference : 620 mm
+
+33
+
+IS 4151 : 2015
+
+ANNEX P
+(Foreword)
+COMMITTEE COMPOSITION
+Fire Fighting Sectional Committee, CED 22
+Organization
+
+Representative(s)
+
+Ministry of Home Affairs, New Delhi
+
+SHRI D. K. SHAMI (Chairman)
+DEPUTY FIRE ADVISOR (Alternate)
+
+Aerostar Helmets Limited, New Delhi
+
+SHRI KULJIT S. ARORA
+
+Agni Controls, Chennai
+
+SHRI D. BALACHANDRAN
+
+Airport Authority of India, New Delhi
+
+SHRI SUBHASH KUMAR
+SHRI P. K. DESHMUKH (Alternate)
+
+Bhabha Atomic Research Centre, Mumbai
+
+CHIEF FIRE O FFICER
+
+Brijbasi Hitech Udyog Ltd, New Delhi
+
+SHRI MAHESH C. AGGARWAL
+SHRI RAJESH K. AGGARWAL (Alternate)
+
+Building Fire Research Centre, Mysore
+
+DR N. SURESH
+SHRI Y. M. MANJUNATH (Alternate)
+
+Central Building Research Institute, Roorkee
+
+DR M. P. SINGH
+SHRI SURVIR SINGH (Alternate)
+
+Central Public Works Department, New Delhi
+
+SHRI CHAITANYA K UMAR V ERMA
+SHRI SHAM SUNDER GARG (Alternate)
+
+Centre for Fire & Explosive Environment Safety (DIFR), Delhi
+
+SHRI V. K. SHARMA
+SHRI M. K. JAIN (Alternate)
+
+Chennai Petroleum Corporation Ltd, Chennai
+
+SHRI J. P. K. HEPAT
+
+Chhatariya Rubber & Chemicals Industries, Mumbai
+
+SHRI S. A. HAVELIWALA
+SHRI H. S. HAVELIWALA (Alternate)
+
+Controllerate of Quality Assurance, Pune
+
+COL S. M. HARIDAS
+LT COL R. K. TIWARI (Alternate)
+
+Council of Architecture, New Delhi
+
+PRESIDENT
+
+Delhi Development Authority, New Delhi
+
+SHRI M. K. KASHYAP
+
+Delhi Fire Services, New Delhi
+
+SHRI A. K. SHARMA
+SHRI G. C. MISHRA (Alternate)
+
+Directorate of Fire and Emergency Services, Goa
+
+SHRI ASHOK MENON
+SHRI RAJENDRA A. HALDANKAR (Alternate)
+
+Engineer-in-ChiefÂ’s Branch, New Delhi
+
+DR RAM VERMA
+SHRI V. K. GULATI (Alternate)
+
+Engineers India Ltd, New Delhi
+
+SHRI R. B. BHUTDA
+SHRI VIPAN GOEL (Alternate)
+
+F. M. Engineering International India Branch, Bangalore
+
+SHRI SUMIT KHANNA
+SHRI PRASAD KULKARNI (Alternate)
+
+Fire & Emergency Services J&K, Srinagar
+
+DR. G. A. BHAT
+
+Fire Protection Association of India, Mumbai
+
+PRESIDENT
+
+GAIL (India) Limited, New Delhi
+
+SHRI S. P. GARG
+SHRI SANJEEV KUMAR KALKAL (Alternate)
+
+Gunnebo India Pvt Limited, Chennai
+
+SHRI K. ARUL PRAKASH
+SHRI RAJESH SHARMA (Alternate)
+
+H. D. Fire Protect Co, Thane
+
+SHRI HARISH N. DHARAMSHI
+SHRI K. T. CHAUDHARI (Alternate)
+
+Indian Oil Corporation Limited, Noida
+
+SHRI T. K. KUMAR
+
+Institution of Fire Engineers, New Delhi
+
+PRESIDENT GENERAL SECRETARY (Alternate)
+
+K. V. Fire Chemicals (India) Pvt Ltd, Navi Mumbai
+
+SHRI RAJESH H. SABADRA
+SHRI UDAY K. SHROFF (Alternate)
+
+34
+
+IS 4151 : 2015
+Organization
+
+Representative(s)
+
+Karnataka State Fire and Emergency Services, Bangalore
+
+SHRI B. G. CHANGAPPA
+SHRI B. K. HAMPAGOL (Alternate)
+
+Maharashtra Fire Services, Mumbai
+
+SHRI M. V. DESHMUKH
+SHRI S. S. WARICK (Alternate)
+
+Mumbai Fire Brigade, Mumbai
+
+SHRI S. V. JOSHI
+SHRI S. H. NESRIKAR (Alternate)
+
+National Fire Service College, Nagpur
+
+DIRECTOR
+
+National Institute of Engineering, Mysore
+
+DR N. SURESH
+
+National Thermal Power Corporation, New Delhi
+
+SHRI S. K. JHA
+SHRI SANJAY VERMA (Alternate)
+
+Newage Industries, Mumbai
+
+SHRI ASHOK M. SHAH
+SHRI SHETUL A. SHAH (Alternate)
+
+Oil Industry Safety Directorate, New Delhi
+
+SHRI S. K. NANDY
+
+Prakash Suraksha Devices, Delhi
+
+SHRI PRAMOD PRAKASH
+SHRI AMOD PRAKASH (Alternate)
+
+Reliance Industries Limited, Jamnagar
+
+SHRI VARADENDRA KOTI
+SHRI UMESH KHANDALKAR (Alternate)
+
+RESQ Technologies, Ahmedabad
+
+SHRI ROHIT V. SHAH
+
+Safex Fire Services Limited, Mumbai
+
+SHRI JITENDRA SHAH
+SHRI SANDIP SHAH (Alternate)
+
+Shah Bhogilal Jethalal & Bros, Ahmedabad
+
+SHRI MUKESH M. SHAH
+SHRI. ABHAY D. PURANDARE (Alternate)
+
+State Bank of India, Mumbai
+
+SHRI VIJAY S. NALHE
+
+Surex Production and Sales Private Limited, Kolkata
+
+SHRI DEBASHIS NEOGI
+
+Swastik Synergy Engineering Pvt Ltd, Mumbai
+
+SHRI MUKESH D. SHAH
+SHRI KUNAL ZATAKIA (Alternate)
+
+Tamil Nadu Fire and Rescue Services Department, Chennai
+
+SHRI S. VIJAYASEKAR
+SMT N. PRIYA (Alternate)
+
+Tyco Fire & Security India Pvt Ltd, Mumbai
+
+SHRI AJIT RAGHAVAN
+SHRI MANOJ SHENOY (Alternate)
+
+UL India Pvt Limited, Bangalore
+
+SHRI SANTOSH MAZUMDAR
+SHRI DILBAGH SINGH (Alternate)
+
+Uttar Pradesh Fire Services, Lucknow
+
+SHRI P. K. RAO
+SHRI AMAN SHARMA (Alternate)
+
+Wadia Body Builders, Ahmedabad
+
+REPRESENTATIVE
+
+West Bengal Fire and Emergency Service, Kolkata
+
+SHRI D. P. BISWAS
+SHRI G.K. BHATTACHARYA (Alternate)
+
+Zenith Fire Services (India) Pvt Ltd, Mumbai
+
+SHRI B. C. SHAH
+SHRI D. C. SHAH (Alternate)
+
+In personal capacity (B-152, Ist Floor, East of Kailash, New Delhi)
+
+SHRI HEMANT KUMAR
+
+In personal capacity (K-33-A, Green Park, New Delhi)
+
+SHRI S. K. DHERI
+
+In personal capacity (P/4, Belgacuta Villa, Kolkata)
+
+SHRI S. N. KUNDU
+
+In personal capacity (A-45, Sector-70, Noida)
+
+DR H. S. KAPRWAN
+
+In personal capacity (A-347, Defence Colony, New Delhi)
+
+SHRI R. C. SHARMA
+
+In personal capacity (SJR Verity, VIVA-305, Amrita College
+Road, Bangalore)
+
+SHRI T. R. A. KRISHNAN
+
+Directorate General, Bureau of Indian Standards
+
+SHRI J. ROY CHOWDHURY, Scientist Â‘FÂ’ & Head (Civil Engg)
+Representing Director General (Ex-officio)]
+Member Secretary
+SHRI SRIKANTH YAJJALA
+Scientist Â‘BÂ’ (Civil Engg), BIS
+
+35
+
+IS 4151 : 2015
+Helmet Subcommittee, CED 22:5
+Organization
+
+Representative(s)
+
+In personal capacity (B-152, Ist Floor, East of Kailash, New Delhi)
+
+SHRI HEMANT KUMAR (Convener)
+
+Aerostar Helmets Limited, New Delhi
+
+SHRI KULJIT S. ARORA
+
+All India Helmet ManufacturerÂ’s Association, Faridabad
+
+SHRI MADHU BHUSHAN KHURANA
+SHRI AMIT DESAI (Alternate)
+
+Automotive Research Association of India, Pune
+
+SHRI A. V. MANNIKAR
+SHRI S. G. SAROF (Alternate)
+
+Bureau of Police Research and Development, New Delhi
+
+SMT VANITA YADAV
+SHRI M. M. GOSAL (Alternate)
+
+Central Institute of Mining and Fuel Research, Dhanbad
+
+DR H. SINGH
+
+Coal India Limited, Ranchi
+
+SHRI G. C. SHARMA
+SHRI A. B. W. HUSSAIN (Alternate)
+
+CONCERT Trust, Chennai
+
+SHRI M. MOHAN
+SHRI G. RAJAN (Alternate)
+
+Concord Arai Pvt Limited, Chennai
+
+SHRI R. RAMAKRISHNAN
+SHRI A. R. D. RAMACHANDRA RAJA (Alternate)
+
+Defence Bio-Engg & Electro Medical Lab, Bangalore
+
+SHRI A. S. K. PRASAD
+DR V. C. PADAKI (Alternate)
+
+Defence Material Stores Research & Development, DRDO,
+Kanpur
+
+DR R. K. TIWARI
+SHRI ARUN KUMAR SINGH (Alternate)
+
+Directorate General of Mines Safety, Dhanbad
+
+SHRI C. B. PRASAD
+SHRI N. P. DEORI (Alternate)
+
+ERGO Auto Limited, Faridabad
+
+SHRI R. B. KHURANA
+SHRI O. P. ADLAKHA (Alternate)
+
+Helmet ManufacturerÂ’s Association, Noida
+
+REPRESENTATIVE
+
+Hero Moto Corp Ltd, Dharuhera
+
+SHRI SUMIT BANSAL
+SHRI MANISH KESWANI (Alternate)
+
+Indian Institute of Technology, New Delhi
+
+DR PUNEET MAHAJAN
+
+Mines Safety Appliances Limited, Kolkata
+
+SHRI K. SANYAL
+MR S. BHATTACHARYA (Alternate)
+
+Ministry of Home Affairs, New Delhi
+
+FIRE A DVISER D EPUTY FIRE ADVISOR (Alternate)
+
+Ministry of Road Transport and Highways, New Delhi
+
+SHRI S. P. GUPTA
+
+Safety Engineering Department, Bokaro
+
+SHRI D. MAHATA
+SHRI R. K. OJHA (Alternate)
+
+Society of Indian Automobile Manufacturers (SIAM),
+New Delhi
+
+PRESIDENT
+
+Steelbird Hi-Tech India Ltd, New Delhi
+
+SHRI RAJEEV KAPUR
+SHRI ARUN KUMAR (Alternate)
+
+STUDS Accessories Limited, Faridabad
+
+SHRI MADHU BHUSHAN KHURANA
+SHRI SIDHARTH BHUSHAN KHURANA (Alternate)
+
+VOICE Society, New Delhi
+
+SHRI M. A. U. KHAN
+SHRI H. WADHWA (Alternate)
+
+In personal capacity (A-347, Defence Colony, New Delhi)
+
+SHRI R. C. SHARMA
+
+36
+
+Bureau of Indian Standards
+BIS is a statutory institution established under the Bureau of Indian Standards Act, 1986 to promote
+harmonious development of the activities of standardization, marking and quality certification of goods
+and attending to connected matters in the country.
+Copyright
+BIS has the copyright of all its publications. No part of these publications may be reproduced in any form
+without the prior permission in writing of BIS. This does not preclude the free use, in the course of
+implementing the standard, of necessary details, such as symbols and sizes, type or grade designations.
+Enquiries relating to copyright be addressed to the Director (Publications), BIS.
+Review of Indian Standards
+Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed
+periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are
+needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards
+should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of
+Â‘BIS CatalogueÂ’ and Â‘Standards : Monthly AdditionsÂ’.
+This Indian Standard has been developed from Doc No.: CED 22 (7887).
+Amendments Issued Since Publication
+Amend No.
+
+Date of Issue
+
+Text Affected
+
+BUREAU OF INDIAN STANDARDS
+Headquarters:
+Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002
+Telephones : 2323 0131, 2323 3375, 2323 9402
+Website: www.bis.org.in
+Regional Offices:
+Central
+
+: Manak Bhavan, 9 Bahadur Shah Zafar Marg
+NEW DELHI 110002
+
+Eastern
+
+: 1/14 C.I.T. Scheme VII M, V. I. P. Road, Kankurgachi
+KOLKATA 700054
+
+Telephones
+
+{
+
+Northern : SCO 335-336, Sector 34-A, CHANDIGARH 160022
+Southern : C.I.T. Campus, IV Cross Road, CHENNAI 600113
+Western
+Branches:
+
+: Manakalaya, E9 MIDC, Marol, Andheri (East)
+MUMBAI 400093
+
+{
+{
+
+{
+
+2323 7617
+2323 3841
+
+2337 8499, 2337 8561
+2337 8626, 2337 9120
+
+{
+
+260 3843
+260 9285
+
+2254 1216, 2254 1442
+2254 2519, 2254 2315
+2832 9295, 2832 7858
+2832 7891, 2832 7892
+
+AHMEDABAD. BENGALURU. BHOPAL. BHUBANESHWAR. COIMBATORE. DEHRADUN.
+FARIDABAD. GHAZIABAD. GUWAHATI. HYDERABAD. JAIPUR. KOCHI. LUCKNOW.
+NAGPUR. PARWANOO. PATNA. PUNE. RAJKOT. VISAKHAPATNAM.
+Published by BIS, New Delhi
+
+AMENDMENT NO. 1 JUNE 2018
+TO
+IS 4151 : 2015 PROTECTIVE HELMET FOR TWO
+WHEELER RIDERS â€” SPECIFICATION
+(Fourth Revision)
+(First cover page, Hindi Title) â€” Substitute â€˜à¤¸à¤µà¤¾à¤°ï¿½â€™ for â€˜à¤šà¤¾à¤²à¤•ï¿½â€™.
+(Page 1, clause 2) â€” Substitute the following for the entry for IS 15575:
+IS No.
+
+Title
+
+15575 (Part 1) : 2016/
+IEC 61672-1 : 2013
+
+Electro acoustics â€” Sound level meters: Part 1
+Specifications (first revision)
+
+(Page 4, clause 6.9, line 6) â€” Substitute '1 200 g' for '1 500 g'.
+(Page 5, clause 7.2.1) â€” Substitute the following for the existing clause:
+â€˜7.2.1 The absorption efficiency shall be considered sufficient where the
+resultant acceleration measured at the centre of gravity of the head form meets
+the following requirements:
+a) Peak acceleration does not exceed 400g;
+b) Accelerations in excess of 200g does not exceed a cumulative
+duration of 2.0 millisecond; and
+c) Accelerations in excess of 150g does not exceed a cumulative
+duration of 4.0 millisecond.â€™
+[Page 7, clause 9.1(g)] â€” Insert the following at the end:
+â€˜h) The words â€˜Two Wheeler Helmetâ€™ on outer surface of the helmet.â€™
+(Page 14, clause C-2.4.2) â€” Delete.
+(Page 14, clause C-3.3.1, line 10) â€” Substitute â€˜6.00 +0.15
+âˆ’0 m/sâ€™ for
+
+â€˜7.5 +0.15
+âˆ’0 m/sâ€™.
+
+1
+
+Amendment No. 1 to IS 4151 : 2015
+m/sâ€™ for
+(Page 14, clause C-3.3.1, line 11) â€” Substitute â€˜5.50 +0.15
+âˆ’0
+
+m/sâ€™.
+â€˜5.5 +0.15
+âˆ’0
+
+(Page14, clause C-3.3.2, second sentence) â€” Substitute the following for
+the existing sentence:
+â€˜The acceleration against time at the centre of gravity of the headform is
+measured and recorded.â€™
+m/sâ€™ for
+(Page 17, clause E-1.3.1, line 4) â€” Substitute â€˜8.50 +0.15
+âˆ’0
+
+m/sâ€™.
+â€˜8.5 +0.15
+âˆ’0
+
+(Page 22, clause G-1.1, line 2) â€” Substitute â€˜IS 15575 (Part 1)â€™ for
+â€˜IS 15575â€™.
+
+(CED 22)
+
+2
+
+Publication Unit, BIS, New Delhi, India
+
+
